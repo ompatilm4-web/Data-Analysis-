@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,PaymentMethod,City,Country
+ORD00001,2024-03-07,Customer_200,Smartphone,Electronics,4,40082,160328,Debit Card,Bangalore,India
+ORD00002,2024-12-10,Customer_32,Smartphone,Electronics,3,74284,222852,Debit Card,Chennai,India
+ORD00003,2024-06-24,Customer_55,Smartphone,Electronics,1,26116,26116,Credit Card,Mumbai,India
+ORD00004,2024-12-25,Customer_188,Smartphone,Electronics,1,52036,52036,Credit Card,Bangalore,India
+ORD00005,2024-10-19,Customer_201,Monitor,Electronics,4,76777,307108,Credit Card,Pune,India
+ORD00006,2024-07-18,Customer_46,Camera,Electronics,5,5521,27605,Net Banking,Mumbai,India
+ORD00007,2024-09-01,Customer_208,Printer,Electronics,2,22631,45262,Credit Card,Chennai,India
+ORD00008,2024-03-31,Customer_123,Monitor,Electronics,4,29906,119624,Debit Card,Chennai,India
+ORD00009,2024-08-01,Customer_148,Printer,Electronics,1,41364,41364,UPI,Pune,India
+ORD00010,2024-11-25,Customer_84,Tablet,Electronics,5,51415,257075,UPI,Bangalore,India
+ORD00011,2024-09-11,Customer_73,Printer,Electronics,2,49091,98182,Credit Card,Delhi,India
+ORD00012,2024-12-19,Customer_112,Smartwatch,Electronics,2,4609,9218,Credit Card,Pune,India
+ORD00013,2024-05-24,Customer_140,Headphones,Accessories,3,20142,60426,Cash on Delivery,Mumbai,India
+ORD00014,2024-06-11,Customer_43,Tablet,Electronics,4,18046,72184,Net Banking,Kolkata,India
+ORD00015,2024-05-07,Customer_158,Headphones,Accessories,2,53560,107120,Cash on Delivery,Mumbai,India
+ORD00016,2024-02-14,Customer_197,Camera,Electronics,3,25310,75930,Net Banking,Hyderabad,India
+ORD00017,2024-10-30,Customer_139,Tablet,Electronics,5,73731,368655,Credit Card,Kolkata,India
+ORD00018,2024-12-17,Customer_46,Printer,Electronics,4,17827,71308,Cash on Delivery,Bangalore,India
+ORD00019,2024-06-18,Customer_245,Tablet,Electronics,2,15998,31996,Debit Card,Mumbai,India
+ORD00020,2024-02-26,Customer_77,Tablet,Electronics,4,55513,222052,Net Banking,Delhi,India
+ORD00021,2024-03-16,Customer_294,Smartphone,Electronics,1,19448,19448,UPI,Hyderabad,India
+ORD00022,2024-04-24,Customer_197,Smartphone,Electronics,3,15719,47157,Debit Card,Chennai,India
+ORD00023,2024-06-04,Customer_72,Tablet,Electronics,2,31686,63372,Credit Card,Kolkata,India
+ORD00024,2024-04-09,Customer_117,Headphones,Accessories,5,27101,135505,UPI,Chennai,India
+ORD00025,2024-10-25,Customer_62,Camera,Electronics,3,20154,60462,UPI,Delhi,India
+ORD00026,2024-09-20,Customer_78,Printer,Electronics,5,6820,34100,Net Banking,Delhi,India
+ORD00027,2024-01-06,Customer_171,Smartphone,Electronics,5,46352,231760,UPI,Kolkata,India
+ORD00028,2024-12-19,Customer_141,Smartphone,Electronics,4,14353,57412,Debit Card,Mumbai,India
+ORD00029,2024-05-17,Customer_61,Headphones,Accessories,3,37077,111231,Debit Card,Bangalore,India
+ORD00030,2024-12-01,Customer_75,Headphones,Accessories,4,63817,255268,Net Banking,Delhi,India
+ORD00031,2024-09-18,Customer_78,Smartwatch,Electronics,2,20218,40436,UPI,Hyderabad,India
+ORD00032,2024-08-04,Customer_285,Laptop,Electronics,1,16834,16834,Debit Card,Kolkata,India
+ORD00033,2024-09-19,Customer_105,Printer,Electronics,4,34106,136424,UPI,Delhi,India
+ORD00034,2024-11-08,Customer_56,Camera,Electronics,1,39783,39783,Credit Card,Bangalore,India
+ORD00035,2024-05-03,Customer_73,Tablet,Electronics,5,21862,109310,Debit Card,Kolkata,India
+ORD00036,2024-02-05,Customer_166,Camera,Electronics,1,25655,25655,Credit Card,Mumbai,India
+ORD00037,2024-09-28,Customer_124,Laptop,Electronics,5,46905,234525,Cash on Delivery,Pune,India
+ORD00038,2024-07-06,Customer_190,Laptop,Electronics,4,45771,183084,Credit Card,Chennai,India
+ORD00039,2024-08-11,Customer_163,Smartwatch,Electronics,5,24181,120905,Credit Card,Mumbai,India
+ORD00040,2024-02-04,Customer_188,Monitor,Electronics,2,29920,59840,UPI,Delhi,India
+ORD00041,2024-01-03,Customer_179,Laptop,Electronics,5,68921,344605,UPI,Chennai,India
+ORD00042,2024-10-30,Customer_248,Headphones,Accessories,5,24222,121110,UPI,Mumbai,India
+ORD00043,2024-05-14,Customer_214,Monitor,Electronics,1,23804,23804,Net Banking,Pune,India
+ORD00044,2024-10-09,Customer_279,Headphones,Accessories,2,20340,40680,Debit Card,Pune,India
+ORD00045,2024-08-25,Customer_116,Smartwatch,Electronics,2,41182,82364,Debit Card,Mumbai,India
+ORD00046,2024-08-21,Customer_78,Tablet,Electronics,2,51700,103400,Debit Card,Mumbai,India
+ORD00047,2024-08-28,Customer_160,Camera,Electronics,3,59132,177396,Net Banking,Mumbai,India
+ORD00048,2024-04-23,Customer_31,Tablet,Electronics,3,58146,174438,Net Banking,Chennai,India
+ORD00049,2024-01-31,Customer_251,Printer,Electronics,4,79629,318516,Cash on Delivery,Chennai,India
+ORD00050,2024-01-18,Customer_145,Laptop,Electronics,2,36275,72550,UPI,Kolkata,India
+ORD00051,2024-12-15,Customer_9,Laptop,Electronics,1,34776,34776,Cash on Delivery,Pune,India
+ORD00052,2024-04-15,Customer_70,Monitor,Electronics,2,15274,30548,Credit Card,Mumbai,India
+ORD00053,2024-06-05,Customer_19,Smartwatch,Electronics,3,9089,27267,Net Banking,Mumbai,India
+ORD00054,2024-03-21,Customer_158,Headphones,Accessories,2,27486,54972,Debit Card,Bangalore,India
+ORD00055,2024-09-27,Customer_8,Smartwatch,Electronics,3,76153,228459,Credit Card,Chennai,India
+ORD00056,2024-07-01,Customer_97,Monitor,Electronics,4,79364,317456,Net Banking,Bangalore,India
+ORD00057,2024-02-02,Customer_267,Laptop,Electronics,1,76783,76783,Credit Card,Pune,India
+ORD00058,2024-12-28,Customer_57,Headphones,Accessories,3,69185,207555,Net Banking,Pune,India
+ORD00059,2024-09-11,Customer_286,Laptop,Electronics,3,51429,154287,Cash on Delivery,Chennai,India
+ORD00060,2024-10-14,Customer_84,Camera,Electronics,4,25036,100144,Debit Card,Chennai,India
+ORD00061,2024-06-11,Customer_156,Headphones,Accessories,2,72214,144428,Cash on Delivery,Chennai,India
+ORD00062,2024-01-21,Customer_51,Printer,Electronics,1,66087,66087,UPI,Kolkata,India
+ORD00063,2024-12-18,Customer_300,Printer,Electronics,5,56516,282580,Credit Card,Chennai,India
+ORD00064,2024-05-12,Customer_123,Laptop,Electronics,5,28190,140950,Debit Card,Chennai,India
+ORD00065,2024-01-12,Customer_191,Monitor,Electronics,4,25108,100432,Debit Card,Pune,India
+ORD00066,2024-03-12,Customer_248,Headphones,Accessories,5,34089,170445,Credit Card,Mumbai,India
+ORD00067,2024-07-10,Customer_75,Camera,Electronics,4,19658,78632,Net Banking,Bangalore,India
+ORD00068,2024-04-16,Customer_238,Smartphone,Electronics,5,63040,315200,Credit Card,Delhi,India
+ORD00069,2024-08-17,Customer_41,Camera,Electronics,2,28523,57046,UPI,Chennai,India
+ORD00070,2024-11-28,Customer_240,Laptop,Electronics,4,47888,191552,Credit Card,Bangalore,India
+ORD00071,2024-08-16,Customer_267,Smartphone,Electronics,4,79708,318832,Cash on Delivery,Pune,India
+ORD00072,2024-11-24,Customer_36,Camera,Electronics,4,73438,293752,Cash on Delivery,Bangalore,India
+ORD00073,2024-12-29,Customer_291,Camera,Electronics,3,16523,49569,UPI,Kolkata,India
+ORD00074,2024-12-23,Customer_270,Headphones,Accessories,4,35884,143536,Credit Card,Hyderabad,India
+ORD00075,2024-01-01,Customer_230,Smartphone,Electronics,4,42989,171956,Net Banking,Bangalore,India
+ORD00076,2024-11-03,Customer_286,Camera,Electronics,3,19679,59037,Credit Card,Bangalore,India
+ORD00077,2024-09-12,Customer_209,Printer,Electronics,1,4240,4240,UPI,Mumbai,India
+ORD00078,2024-04-03,Customer_64,Monitor,Electronics,5,65020,325100,UPI,Mumbai,India
+ORD00079,2024-07-05,Customer_21,Headphones,Accessories,2,49788,99576,Cash on Delivery,Chennai,India
+ORD00080,2024-04-01,Customer_284,Monitor,Electronics,2,79335,158670,UPI,Pune,India
+ORD00081,2024-01-19,Customer_188,Monitor,Electronics,5,9285,46425,Debit Card,Pune,India
+ORD00082,2024-07-10,Customer_286,Tablet,Electronics,2,28042,56084,Debit Card,Pune,India
+ORD00083,2024-04-16,Customer_140,Smartphone,Electronics,1,9690,9690,Debit Card,Kolkata,India
+ORD00084,2024-07-10,Customer_63,Tablet,Electronics,3,39654,118962,Debit Card,Delhi,India
+ORD00085,2024-06-13,Customer_64,Tablet,Electronics,3,24338,73014,Debit Card,Kolkata,India
+ORD00086,2024-10-16,Customer_13,Smartphone,Electronics,4,16982,67928,Net Banking,Kolkata,India
+ORD00087,2024-06-01,Customer_150,Headphones,Accessories,3,75313,225939,Cash on Delivery,Hyderabad,India
+ORD00088,2024-09-29,Customer_87,Headphones,Accessories,2,8788,17576,Cash on Delivery,Bangalore,India
+ORD00089,2024-11-11,Customer_8,Printer,Electronics,3,69453,208359,Debit Card,Hyderabad,India
+ORD00090,2024-07-10,Customer_267,Printer,Electronics,4,39900,159600,Debit Card,Delhi,India
+ORD00091,2024-11-05,Customer_16,Laptop,Electronics,2,24677,49354,Credit Card,Kolkata,India
+ORD00092,2024-10-04,Customer_112,Printer,Electronics,4,14473,57892,Cash on Delivery,Bangalore,India
+ORD00093,2024-02-26,Customer_192,Printer,Electronics,4,52501,210004,UPI,Delhi,India
+ORD00094,2024-09-18,Customer_3,Tablet,Electronics,3,41992,125976,Credit Card,Delhi,India
+ORD00095,2024-12-01,Customer_265,Laptop,Electronics,2,17505,35010,Net Banking,Delhi,India
+ORD00096,2024-12-03,Customer_145,Headphones,Accessories,3,49195,147585,UPI,Hyderabad,India
+ORD00097,2024-11-24,Customer_107,Smartwatch,Electronics,1,23558,23558,Debit Card,Mumbai,India
+ORD00098,2024-06-20,Customer_221,Smartphone,Electronics,2,47828,95656,Net Banking,Pune,India
+ORD00099,2024-05-24,Customer_165,Monitor,Electronics,5,39960,199800,Debit Card,Kolkata,India
+ORD00100,2024-03-10,Customer_67,Printer,Electronics,3,43858,131574,Credit Card,Mumbai,India
+ORD00101,2024-12-12,Customer_215,Laptop,Electronics,3,73975,221925,Net Banking,Delhi,India
+ORD00102,2024-12-04,Customer_109,Smartphone,Electronics,5,58549,292745,Cash on Delivery,Delhi,India
+ORD00103,2024-09-01,Customer_154,Smartphone,Electronics,2,53575,107150,Net Banking,Chennai,India
+ORD00104,2024-08-24,Customer_152,Printer,Electronics,3,41131,123393,UPI,Pune,India
+ORD00105,2024-03-16,Customer_247,Monitor,Electronics,2,22962,45924,Debit Card,Chennai,India
+ORD00106,2024-10-26,Customer_261,Headphones,Accessories,4,8015,32060,Cash on Delivery,Kolkata,India
+ORD00107,2024-08-14,Customer_69,Tablet,Electronics,3,68033,204099,Credit Card,Mumbai,India
+ORD00108,2024-03-15,Customer_130,Tablet,Electronics,3,62956,188868,UPI,Delhi,India
+ORD00109,2024-03-25,Customer_204,Tablet,Electronics,3,55069,165207,UPI,Pune,India
+ORD00110,2024-08-20,Customer_209,Laptop,Electronics,3,37761,113283,Credit Card,Mumbai,India
+ORD00111,2024-02-10,Customer_27,Printer,Electronics,2,56557,113114,Debit Card,Chennai,India
+ORD00112,2024-11-15,Customer_179,Tablet,Electronics,5,20392,101960,Debit Card,Bangalore,India
+ORD00113,2024-06-12,Customer_262,Camera,Electronics,2,11380,22760,Credit Card,Hyderabad,India
+ORD00114,2024-07-15,Customer_212,Monitor,Electronics,2,25266,50532,Credit Card,Delhi,India
+ORD00115,2024-07-28,Customer_220,Headphones,Accessories,2,25283,50566,Credit Card,Mumbai,India
+ORD00116,2024-02-26,Customer_189,Smartphone,Electronics,3,73863,221589,Net Banking,Bangalore,India
+ORD00117,2024-05-03,Customer_229,Smartwatch,Electronics,3,27306,81918,UPI,Kolkata,India
+ORD00118,2024-05-13,Customer_232,Printer,Electronics,5,49528,247640,Net Banking,Hyderabad,India
+ORD00119,2024-11-20,Customer_231,Monitor,Electronics,1,574,574,Debit Card,Hyderabad,India
+ORD00120,2024-04-25,Customer_129,Tablet,Electronics,4,65907,263628,UPI,Mumbai,India
+ORD00121,2024-02-28,Customer_156,Tablet,Electronics,4,12881,51524,Debit Card,Mumbai,India
+ORD00122,2024-01-10,Customer_272,Camera,Electronics,5,5880,29400,Cash on Delivery,Bangalore,India
+ORD00123,2024-10-28,Customer_80,Smartphone,Electronics,1,19965,19965,Net Banking,Kolkata,India
+ORD00124,2024-06-08,Customer_170,Tablet,Electronics,5,37872,189360,Credit Card,Pune,India
+ORD00125,2024-05-03,Customer_63,Printer,Electronics,4,15712,62848,Debit Card,Pune,India
+ORD00126,2024-03-16,Customer_189,Camera,Electronics,2,62820,125640,Credit Card,Chennai,India
+ORD00127,2024-08-20,Customer_194,Monitor,Electronics,2,46953,93906,UPI,Delhi,India
+ORD00128,2024-12-27,Customer_87,Camera,Electronics,5,39434,197170,UPI,Chennai,India
+ORD00129,2024-07-10,Customer_13,Printer,Electronics,2,22963,45926,Cash on Delivery,Kolkata,India
+ORD00130,2024-10-20,Customer_271,Tablet,Electronics,2,38883,77766,Net Banking,Mumbai,India
+ORD00131,2024-03-23,Customer_23,Printer,Electronics,2,8727,17454,UPI,Pune,India
+ORD00132,2024-05-28,Customer_188,Monitor,Electronics,1,64545,64545,Credit Card,Pune,India
+ORD00133,2024-12-31,Customer_156,Monitor,Electronics,3,39648,118944,Credit Card,Bangalore,India
+ORD00134,2024-06-22,Customer_273,Monitor,Electronics,1,14330,14330,Debit Card,Mumbai,India
+ORD00135,2024-10-11,Customer_278,Smartwatch,Electronics,4,58037,232148,Cash on Delivery,Bangalore,India
+ORD00136,2024-07-22,Customer_246,Smartwatch,Electronics,4,7247,28988,Credit Card,Hyderabad,India
+ORD00137,2024-12-01,Customer_194,Headphones,Accessories,3,28809,86427,Debit Card,Delhi,India
+ORD00138,2024-02-07,Customer_250,Camera,Electronics,3,74107,222321,Credit Card,Delhi,India
+ORD00139,2024-07-24,Customer_275,Smartphone,Electronics,4,15450,61800,UPI,Delhi,India
+ORD00140,2024-06-24,Customer_97,Printer,Electronics,4,23591,94364,Cash on Delivery,Chennai,India
+ORD00141,2024-11-18,Customer_138,Smartwatch,Electronics,2,9796,19592,Net Banking,Chennai,India
+ORD00142,2024-08-14,Customer_59,Smartwatch,Electronics,5,69047,345235,Credit Card,Pune,India
+ORD00143,2024-08-10,Customer_47,Laptop,Electronics,3,72446,217338,Net Banking,Mumbai,India
+ORD00144,2024-08-08,Customer_105,Smartphone,Electronics,2,34902,69804,UPI,Chennai,India
+ORD00145,2024-07-16,Customer_226,Tablet,Electronics,3,67150,201450,UPI,Delhi,India
+ORD00146,2024-07-13,Customer_195,Camera,Electronics,1,547,547,Debit Card,Pune,India
+ORD00147,2024-03-22,Customer_274,Smartphone,Electronics,3,73486,220458,Cash on Delivery,Bangalore,India
+ORD00148,2024-01-28,Customer_145,Smartphone,Electronics,4,64767,259068,UPI,Chennai,India
+ORD00149,2024-09-15,Customer_111,Smartwatch,Electronics,5,19583,97915,Cash on Delivery,Kolkata,India
+ORD00150,2024-04-28,Customer_243,Laptop,Electronics,5,65872,329360,Credit Card,Pune,India
+ORD00151,2024-08-20,Customer_221,Headphones,Accessories,2,44009,88018,Net Banking,Mumbai,India
+ORD00152,2024-03-23,Customer_142,Camera,Electronics,5,19196,95980,UPI,Pune,India
+ORD00153,2024-10-27,Customer_31,Monitor,Electronics,4,78283,313132,Credit Card,Chennai,India
+ORD00154,2024-05-09,Customer_278,Camera,Electronics,2,27041,54082,Cash on Delivery,Mumbai,India
+ORD00155,2024-12-04,Customer_52,Headphones,Accessories,3,76837,230511,Net Banking,Hyderabad,India
+ORD00156,2024-07-29,Customer_44,Laptop,Electronics,4,32162,128648,Net Banking,Chennai,India
+ORD00157,2024-01-04,Customer_225,Smartphone,Electronics,2,79846,159692,Net Banking,Mumbai,India
+ORD00158,2024-09-16,Customer_70,Tablet,Electronics,5,22300,111500,UPI,Kolkata,India
+ORD00159,2024-07-17,Customer_94,Laptop,Electronics,4,32854,131416,Net Banking,Mumbai,India
+ORD00160,2024-06-29,Customer_264,Smartwatch,Electronics,1,69089,69089,UPI,Bangalore,India
+ORD00161,2024-10-20,Customer_288,Monitor,Electronics,5,23388,116940,Net Banking,Bangalore,India
+ORD00162,2024-08-18,Customer_263,Camera,Electronics,4,15212,60848,Cash on Delivery,Bangalore,India
+ORD00163,2024-07-28,Customer_184,Camera,Electronics,4,50418,201672,Cash on Delivery,Chennai,India
+ORD00164,2024-08-08,Customer_15,Headphones,Accessories,4,2406,9624,Debit Card,Chennai,India
+ORD00165,2024-04-10,Customer_232,Camera,Electronics,3,42593,127779,Debit Card,Hyderabad,India
+ORD00166,2024-06-07,Customer_275,Headphones,Accessories,4,8520,34080,UPI,Chennai,India
+ORD00167,2024-08-30,Customer_224,Smartphone,Electronics,1,25790,25790,Debit Card,Bangalore,India
+ORD00168,2024-07-12,Customer_33,Smartphone,Electronics,1,39438,39438,Debit Card,Chennai,India
+ORD00169,2024-05-20,Customer_113,Monitor,Electronics,5,13372,66860,Credit Card,Hyderabad,India
+ORD00170,2024-02-28,Customer_236,Camera,Electronics,4,28913,115652,Cash on Delivery,Kolkata,India
+ORD00171,2024-11-26,Customer_187,Printer,Electronics,2,78519,157038,Cash on Delivery,Bangalore,India
+ORD00172,2024-07-02,Customer_144,Smartwatch,Electronics,1,74773,74773,Cash on Delivery,Bangalore,India
+ORD00173,2024-09-21,Customer_207,Printer,Electronics,1,41825,41825,Net Banking,Chennai,India
+ORD00174,2024-10-26,Customer_64,Smartphone,Electronics,5,65402,327010,Credit Card,Delhi,India
+ORD00175,2024-08-22,Customer_88,Tablet,Electronics,5,66722,333610,Cash on Delivery,Bangalore,India
+ORD00176,2024-01-03,Customer_143,Laptop,Electronics,2,5621,11242,Net Banking,Chennai,India
+ORD00177,2024-01-26,Customer_167,Smartphone,Electronics,5,75202,376010,Net Banking,Bangalore,India
+ORD00178,2024-09-04,Customer_268,Smartphone,Electronics,4,65598,262392,Cash on Delivery,Kolkata,India
+ORD00179,2024-04-01,Customer_50,Monitor,Electronics,3,42952,128856,Debit Card,Hyderabad,India
+ORD00180,2024-05-31,Customer_137,Camera,Electronics,5,77671,388355,UPI,Mumbai,India
+ORD00181,2024-11-24,Customer_39,Camera,Electronics,1,11736,11736,Credit Card,Hyderabad,India
+ORD00182,2024-05-02,Customer_187,Smartwatch,Electronics,3,50311,150933,Credit Card,Pune,India
+ORD00183,2024-04-03,Customer_34,Tablet,Electronics,5,17020,85100,Cash on Delivery,Mumbai,India
+ORD00184,2024-04-03,Customer_7,Laptop,Electronics,4,50173,200692,Debit Card,Pune,India
+ORD00185,2024-05-17,Customer_178,Headphones,Accessories,1,6768,6768,Credit Card,Pune,India
+ORD00186,2024-07-01,Customer_247,Laptop,Electronics,1,55765,55765,Net Banking,Hyderabad,India
+ORD00187,2024-01-05,Customer_143,Smartwatch,Electronics,5,21478,107390,Net Banking,Bangalore,India
+ORD00188,2024-07-11,Customer_10,Smartphone,Electronics,4,20799,83196,Credit Card,Bangalore,India
+ORD00189,2024-01-07,Customer_145,Laptop,Electronics,1,3454,3454,Cash on Delivery,Hyderabad,India
+ORD00190,2024-04-23,Customer_68,Smartwatch,Electronics,3,69590,208770,Credit Card,Bangalore,India
+ORD00191,2024-04-14,Customer_293,Camera,Electronics,1,17534,17534,Credit Card,Hyderabad,India
+ORD00192,2024-10-07,Customer_236,Camera,Electronics,3,54545,163635,Debit Card,Pune,India
+ORD00193,2024-11-23,Customer_52,Camera,Electronics,2,74201,148402,Cash on Delivery,Pune,India
+ORD00194,2024-02-22,Customer_33,Headphones,Accessories,2,30858,61716,Net Banking,Bangalore,India
+ORD00195,2024-04-06,Customer_97,Smartwatch,Electronics,2,21447,42894,Credit Card,Chennai,India
+ORD00196,2024-11-02,Customer_6,Camera,Electronics,4,54204,216816,UPI,Delhi,India
+ORD00197,2024-08-25,Customer_269,Headphones,Accessories,4,17550,70200,Cash on Delivery,Delhi,India
+ORD00198,2024-07-24,Customer_38,Camera,Electronics,4,54060,216240,Net Banking,Pune,India
+ORD00199,2024-11-15,Customer_229,Camera,Electronics,1,11435,11435,UPI,Hyderabad,India
+ORD00200,2024-12-17,Customer_58,Camera,Electronics,5,21804,109020,Credit Card,Delhi,India
+ORD00201,2024-10-21,Customer_118,Smartwatch,Electronics,2,1291,2582,UPI,Bangalore,India
+ORD00202,2024-09-14,Customer_185,Printer,Electronics,2,19348,38696,Net Banking,Kolkata,India
+ORD00203,2024-10-01,Customer_88,Smartwatch,Electronics,1,74693,74693,Cash on Delivery,Mumbai,India
+ORD00204,2024-10-17,Customer_196,Tablet,Electronics,2,70225,140450,Credit Card,Delhi,India
+ORD00205,2024-01-25,Customer_12,Headphones,Accessories,3,78366,235098,Credit Card,Delhi,India
+ORD00206,2024-09-12,Customer_21,Headphones,Accessories,1,70350,70350,Credit Card,Pune,India
+ORD00207,2024-01-24,Customer_119,Headphones,Accessories,3,1185,3555,Credit Card,Pune,India
+ORD00208,2024-08-28,Customer_128,Camera,Electronics,1,29972,29972,Credit Card,Bangalore,India
+ORD00209,2024-01-12,Customer_242,Monitor,Electronics,3,59328,177984,Net Banking,Delhi,India
+ORD00210,2024-09-23,Customer_282,Laptop,Electronics,1,29767,29767,Cash on Delivery,Bangalore,India
+ORD00211,2024-05-07,Customer_131,Tablet,Electronics,4,21647,86588,Debit Card,Pune,India
+ORD00212,2024-03-12,Customer_149,Monitor,Electronics,1,39140,39140,Cash on Delivery,Bangalore,India
+ORD00213,2024-10-27,Customer_69,Printer,Electronics,2,25692,51384,Credit Card,Hyderabad,India
+ORD00214,2024-02-19,Customer_217,Monitor,Electronics,4,67019,268076,Net Banking,Hyderabad,India
+ORD00215,2024-12-23,Customer_242,Printer,Electronics,5,64990,324950,Cash on Delivery,Kolkata,India
+ORD00216,2024-05-07,Customer_6,Headphones,Accessories,5,40990,204950,UPI,Bangalore,India
+ORD00217,2024-02-19,Customer_125,Camera,Electronics,1,25752,25752,Cash on Delivery,Mumbai,India
+ORD00218,2024-09-03,Customer_222,Laptop,Electronics,4,61037,244148,Credit Card,Hyderabad,India
+ORD00219,2024-12-16,Customer_244,Printer,Electronics,1,61872,61872,Credit Card,Kolkata,India
+ORD00220,2024-02-07,Customer_49,Camera,Electronics,3,13418,40254,Credit Card,Pune,India
+ORD00221,2024-06-30,Customer_173,Monitor,Electronics,1,28663,28663,Debit Card,Bangalore,India
+ORD00222,2024-10-27,Customer_218,Tablet,Electronics,3,77280,231840,UPI,Kolkata,India
+ORD00223,2024-02-02,Customer_116,Laptop,Electronics,2,19416,38832,Debit Card,Delhi,India
+ORD00224,2024-12-05,Customer_179,Tablet,Electronics,1,60197,60197,UPI,Chennai,India
+ORD00225,2024-05-12,Customer_51,Headphones,Accessories,1,79150,79150,UPI,Bangalore,India
+ORD00226,2024-10-28,Customer_156,Laptop,Electronics,5,18820,94100,Credit Card,Pune,India
+ORD00227,2024-07-11,Customer_125,Printer,Electronics,3,69384,208152,Debit Card,Delhi,India
+ORD00228,2024-12-06,Customer_163,Headphones,Accessories,2,26332,52664,UPI,Bangalore,India
+ORD00229,2024-09-04,Customer_189,Monitor,Electronics,4,2878,11512,Net Banking,Bangalore,India
+ORD00230,2024-04-04,Customer_97,Headphones,Accessories,3,6884,20652,UPI,Hyderabad,India
+ORD00231,2024-01-26,Customer_168,Smartphone,Electronics,4,66724,266896,UPI,Delhi,India
+ORD00232,2024-05-05,Customer_190,Tablet,Electronics,3,65675,197025,Cash on Delivery,Mumbai,India
+ORD00233,2024-03-10,Customer_78,Smartphone,Electronics,3,60011,180033,Cash on Delivery,Pune,India
+ORD00234,2024-07-20,Customer_140,Smartwatch,Electronics,1,62889,62889,Net Banking,Chennai,India
+ORD00235,2024-08-03,Customer_226,Smartphone,Electronics,4,8815,35260,Debit Card,Kolkata,India
+ORD00236,2024-09-17,Customer_103,Laptop,Electronics,5,79080,395400,Debit Card,Hyderabad,India
+ORD00237,2024-06-10,Customer_202,Laptop,Electronics,5,37168,185840,Cash on Delivery,Hyderabad,India
+ORD00238,2024-09-03,Customer_266,Headphones,Accessories,4,46914,187656,UPI,Chennai,India
+ORD00239,2024-06-08,Customer_64,Printer,Electronics,5,63934,319670,Net Banking,Hyderabad,India
+ORD00240,2024-02-09,Customer_12,Camera,Electronics,1,38684,38684,Net Banking,Pune,India
+ORD00241,2024-09-22,Customer_112,Headphones,Accessories,2,20474,40948,Net Banking,Pune,India
+ORD00242,2024-06-18,Customer_138,Camera,Electronics,2,67634,135268,Credit Card,Chennai,India
+ORD00243,2024-05-12,Customer_49,Headphones,Accessories,5,25028,125140,Credit Card,Pune,India
+ORD00244,2024-10-01,Customer_93,Headphones,Accessories,3,29018,87054,Cash on Delivery,Delhi,India
+ORD00245,2024-08-18,Customer_74,Laptop,Electronics,3,25181,75543,UPI,Bangalore,India
+ORD00246,2024-07-26,Customer_130,Smartwatch,Electronics,1,38533,38533,Net Banking,Chennai,India
+ORD00247,2024-03-07,Customer_75,Tablet,Electronics,2,4403,8806,Net Banking,Pune,India
+ORD00248,2024-05-20,Customer_120,Monitor,Electronics,2,76837,153674,Cash on Delivery,Hyderabad,India
+ORD00249,2024-11-13,Customer_116,Smartphone,Electronics,5,67987,339935,Cash on Delivery,Hyderabad,India
+ORD00250,2024-01-27,Customer_180,Camera,Electronics,5,33917,169585,Debit Card,Mumbai,India
+ORD00251,2024-05-02,Customer_40,Smartphone,Electronics,5,25990,129950,Credit Card,Delhi,India
+ORD00252,2024-09-13,Customer_194,Smartphone,Electronics,1,53232,53232,UPI,Mumbai,India
+ORD00253,2024-10-04,Customer_240,Camera,Electronics,3,3622,10866,UPI,Bangalore,India
+ORD00254,2024-01-09,Customer_15,Laptop,Electronics,5,20855,104275,Debit Card,Kolkata,India
+ORD00255,2024-10-28,Customer_221,Laptop,Electronics,4,51024,204096,Debit Card,Mumbai,India
+ORD00256,2024-01-19,Customer_276,Camera,Electronics,2,49757,99514,UPI,Chennai,India
+ORD00257,2024-10-28,Customer_162,Printer,Electronics,1,37154,37154,Credit Card,Hyderabad,India
+ORD00258,2024-11-25,Customer_97,Monitor,Electronics,5,76812,384060,Debit Card,Kolkata,India
+ORD00259,2024-05-02,Customer_183,Headphones,Accessories,4,18361,73444,Cash on Delivery,Bangalore,India
+ORD00260,2024-11-20,Customer_29,Laptop,Electronics,3,39156,117468,UPI,Delhi,India
+ORD00261,2024-07-24,Customer_196,Printer,Electronics,5,61768,308840,Credit Card,Pune,India
+ORD00262,2024-05-03,Customer_23,Camera,Electronics,5,48736,243680,Cash on Delivery,Hyderabad,India
+ORD00263,2024-10-09,Customer_165,Tablet,Electronics,3,20470,61410,Debit Card,Bangalore,India
+ORD00264,2024-06-14,Customer_64,Monitor,Electronics,4,63928,255712,Credit Card,Delhi,India
+ORD00265,2024-09-21,Customer_94,Tablet,Electronics,5,77785,388925,Debit Card,Hyderabad,India
+ORD00266,2024-10-24,Customer_96,Headphones,Accessories,1,18548,18548,Net Banking,Hyderabad,India
+ORD00267,2024-04-17,Customer_223,Headphones,Accessories,3,35729,107187,Net Banking,Bangalore,India
+ORD00268,2024-02-19,Customer_68,Smartwatch,Electronics,2,35565,71130,UPI,Delhi,India
+ORD00269,2024-01-11,Customer_31,Tablet,Electronics,2,37227,74454,Cash on Delivery,Kolkata,India
+ORD00270,2024-04-14,Customer_167,Monitor,Electronics,4,17436,69744,Cash on Delivery,Pune,India
+ORD00271,2024-11-19,Customer_96,Monitor,Electronics,2,59577,119154,Cash on Delivery,Kolkata,India
+ORD00272,2024-10-01,Customer_81,Monitor,Electronics,5,63432,317160,UPI,Chennai,India
+ORD00273,2024-08-19,Customer_230,Printer,Electronics,1,70586,70586,Cash on Delivery,Pune,India
+ORD00274,2024-07-25,Customer_268,Headphones,Accessories,3,11459,34377,Credit Card,Chennai,India
+ORD00275,2024-09-06,Customer_159,Tablet,Electronics,3,33917,101751,Debit Card,Pune,India
+ORD00276,2024-10-26,Customer_115,Headphones,Accessories,5,73602,368010,Cash on Delivery,Bangalore,India
+ORD00277,2024-01-23,Customer_63,Smartwatch,Electronics,2,42679,85358,Debit Card,Delhi,India
+ORD00278,2024-08-12,Customer_37,Tablet,Electronics,1,54106,54106,Credit Card,Mumbai,India
+ORD00279,2024-06-04,Customer_204,Laptop,Electronics,4,31712,126848,Debit Card,Hyderabad,India
+ORD00280,2024-11-10,Customer_26,Tablet,Electronics,2,24624,49248,Debit Card,Delhi,India
+ORD00281,2024-08-09,Customer_113,Monitor,Electronics,2,7365,14730,Debit Card,Kolkata,India
+ORD00282,2024-09-10,Customer_262,Smartwatch,Electronics,2,56042,112084,Debit Card,Bangalore,India
+ORD00283,2024-12-20,Customer_4,Smartphone,Electronics,1,38108,38108,Debit Card,Mumbai,India
+ORD00284,2024-07-10,Customer_156,Tablet,Electronics,4,74671,298684,Cash on Delivery,Chennai,India
+ORD00285,2024-10-29,Customer_109,Smartwatch,Electronics,3,78183,234549,Cash on Delivery,Bangalore,India
+ORD00286,2024-12-21,Customer_54,Laptop,Electronics,5,71470,357350,Debit Card,Delhi,India
+ORD00287,2024-04-27,Customer_124,Headphones,Accessories,2,43869,87738,UPI,Delhi,India
+ORD00288,2024-01-13,Customer_72,Tablet,Electronics,4,72865,291460,UPI,Bangalore,India
+ORD00289,2024-08-20,Customer_228,Smartwatch,Electronics,3,70243,210729,Net Banking,Pune,India
+ORD00290,2024-06-24,Customer_111,Monitor,Electronics,3,55919,167757,UPI,Pune,India
+ORD00291,2024-06-15,Customer_27,Laptop,Electronics,3,47157,141471,Credit Card,Kolkata,India
+ORD00292,2024-09-21,Customer_274,Monitor,Electronics,1,58291,58291,UPI,Kolkata,India
+ORD00293,2024-03-09,Customer_145,Laptop,Electronics,4,74596,298384,Cash on Delivery,Chennai,India
+ORD00294,2024-01-21,Customer_268,Camera,Electronics,2,78043,156086,Credit Card,Kolkata,India
+ORD00295,2024-12-24,Customer_55,Headphones,Accessories,2,76880,153760,Cash on Delivery,Chennai,India
+ORD00296,2024-12-29,Customer_153,Camera,Electronics,4,49035,196140,UPI,Hyderabad,India
+ORD00297,2024-01-25,Customer_35,Tablet,Electronics,5,16292,81460,Debit Card,Delhi,India
+ORD00298,2024-03-02,Customer_192,Headphones,Accessories,3,32090,96270,Cash on Delivery,Pune,India
+ORD00299,2024-08-21,Customer_129,Smartphone,Electronics,1,20829,20829,Cash on Delivery,Chennai,India
+ORD00300,2024-12-05,Customer_274,Smartwatch,Electronics,1,45331,45331,UPI,Pune,India
+ORD00301,2024-12-16,Customer_286,Printer,Electronics,4,9555,38220,Cash on Delivery,Pune,India
+ORD00302,2024-05-27,Customer_93,Printer,Electronics,4,40654,162616,Net Banking,Chennai,India
+ORD00303,2024-06-21,Customer_144,Monitor,Electronics,4,41839,167356,Credit Card,Hyderabad,India
+ORD00304,2024-03-23,Customer_75,Smartphone,Electronics,5,50141,250705,UPI,Kolkata,India
+ORD00305,2024-05-25,Customer_169,Smartphone,Electronics,2,26941,53882,Cash on Delivery,Pune,India
+ORD00306,2024-03-02,Customer_226,Laptop,Electronics,5,22713,113565,Cash on Delivery,Chennai,India
+ORD00307,2024-02-20,Customer_300,Tablet,Electronics,5,29063,145315,UPI,Hyderabad,India
+ORD00308,2024-06-03,Customer_216,Smartwatch,Electronics,5,11316,56580,Net Banking,Kolkata,India
+ORD00309,2024-10-03,Customer_34,Smartphone,Electronics,3,21986,65958,Credit Card,Chennai,India
+ORD00310,2024-01-26,Customer_184,Tablet,Electronics,4,73045,292180,Debit Card,Pune,India
+ORD00311,2024-05-26,Customer_204,Smartphone,Electronics,3,26511,79533,Credit Card,Pune,India
+ORD00312,2024-03-05,Customer_264,Printer,Electronics,1,2832,2832,Net Banking,Delhi,India
+ORD00313,2024-12-19,Customer_38,Monitor,Electronics,3,42862,128586,Credit Card,Bangalore,India
+ORD00314,2024-11-25,Customer_190,Laptop,Electronics,4,32556,130224,UPI,Chennai,India
+ORD00315,2024-04-14,Customer_19,Printer,Electronics,1,53827,53827,Debit Card,Bangalore,India
+ORD00316,2024-04-23,Customer_130,Tablet,Electronics,3,60230,180690,Credit Card,Delhi,India
+ORD00317,2024-07-12,Customer_38,Camera,Electronics,3,77645,232935,Debit Card,Bangalore,India
+ORD00318,2024-04-23,Customer_52,Smartwatch,Electronics,3,3927,11781,Net Banking,Chennai,India
+ORD00319,2024-08-04,Customer_31,Smartphone,Electronics,3,34771,104313,UPI,Kolkata,India
+ORD00320,2024-01-16,Customer_43,Headphones,Accessories,4,37082,148328,UPI,Mumbai,India
+ORD00321,2024-03-02,Customer_288,Laptop,Electronics,2,65786,131572,Credit Card,Bangalore,India
+ORD00322,2024-07-23,Customer_175,Monitor,Electronics,3,77756,233268,Debit Card,Bangalore,India
+ORD00323,2024-07-09,Customer_286,Printer,Electronics,5,14863,74315,Debit Card,Chennai,India
+ORD00324,2024-08-03,Customer_137,Tablet,Electronics,2,32661,65322,Debit Card,Delhi,India
+ORD00325,2024-12-17,Customer_236,Smartwatch,Electronics,2,74238,148476,Debit Card,Pune,India
+ORD00326,2024-11-14,Customer_138,Tablet,Electronics,2,26374,52748,Cash on Delivery,Kolkata,India
+ORD00327,2024-04-01,Customer_115,Smartwatch,Electronics,1,15238,15238,UPI,Pune,India
+ORD00328,2024-03-11,Customer_148,Camera,Electronics,3,20222,60666,Debit Card,Delhi,India
+ORD00329,2024-08-10,Customer_294,Headphones,Accessories,5,54222,271110,Net Banking,Bangalore,India
+ORD00330,2024-01-26,Customer_127,Monitor,Electronics,1,11169,11169,UPI,Delhi,India
+ORD00331,2024-01-20,Customer_190,Smartwatch,Electronics,3,72497,217491,Debit Card,Hyderabad,India
+ORD00332,2024-05-24,Customer_247,Smartwatch,Electronics,3,10352,31056,Credit Card,Chennai,India
+ORD00333,2024-03-03,Customer_110,Smartphone,Electronics,3,57593,172779,Debit Card,Bangalore,India
+ORD00334,2024-05-08,Customer_12,Smartwatch,Electronics,3,63847,191541,Credit Card,Hyderabad,India
+ORD00335,2024-08-08,Customer_184,Headphones,Accessories,3,29340,88020,Net Banking,Mumbai,India
+ORD00336,2024-12-26,Customer_140,Headphones,Accessories,2,5559,11118,Net Banking,Bangalore,India
+ORD00337,2024-03-14,Customer_212,Monitor,Electronics,5,58758,293790,Debit Card,Bangalore,India
+ORD00338,2024-12-02,Customer_103,Monitor,Electronics,4,21817,87268,UPI,Hyderabad,India
+ORD00339,2024-08-31,Customer_7,Monitor,Electronics,4,19898,79592,UPI,Delhi,India
+ORD00340,2024-08-22,Customer_125,Printer,Electronics,4,21376,85504,Net Banking,Pune,India
+ORD00341,2024-01-30,Customer_53,Smartphone,Electronics,4,69451,277804,Credit Card,Kolkata,India
+ORD00342,2024-07-18,Customer_122,Tablet,Electronics,1,78963,78963,UPI,Chennai,India
+ORD00343,2024-04-15,Customer_281,Printer,Electronics,3,79983,239949,UPI,Mumbai,India
+ORD00344,2024-06-24,Customer_211,Camera,Electronics,2,19695,39390,Net Banking,Bangalore,India
+ORD00345,2024-09-15,Customer_93,Tablet,Electronics,1,53089,53089,UPI,Chennai,India
+ORD00346,2024-01-05,Customer_11,Laptop,Electronics,1,39199,39199,Net Banking,Pune,India
+ORD00347,2024-09-04,Customer_20,Smartphone,Electronics,1,15613,15613,Net Banking,Delhi,India
+ORD00348,2024-06-06,Customer_110,Printer,Electronics,4,76290,305160,Debit Card,Bangalore,India
+ORD00349,2024-06-03,Customer_100,Smartphone,Electronics,4,24485,97940,Credit Card,Delhi,India
+ORD00350,2024-12-05,Customer_95,Printer,Electronics,3,75212,225636,Debit Card,Kolkata,India
+ORD00351,2024-12-21,Customer_82,Printer,Electronics,4,14231,56924,Net Banking,Kolkata,India
+ORD00352,2024-04-12,Customer_52,Smartwatch,Electronics,4,15763,63052,Credit Card,Bangalore,India
+ORD00353,2024-02-09,Customer_121,Laptop,Electronics,4,24496,97984,Net Banking,Chennai,India
+ORD00354,2024-03-10,Customer_91,Camera,Electronics,3,41313,123939,Debit Card,Pune,India
+ORD00355,2024-08-02,Customer_46,Headphones,Accessories,2,30761,61522,Credit Card,Pune,India
+ORD00356,2024-04-27,Customer_157,Printer,Electronics,1,68045,68045,UPI,Pune,India
+ORD00357,2024-11-01,Customer_8,Printer,Electronics,4,65746,262984,UPI,Mumbai,India
+ORD00358,2024-06-17,Customer_251,Printer,Electronics,3,33770,101310,UPI,Hyderabad,India
+ORD00359,2024-01-17,Customer_68,Camera,Electronics,1,22132,22132,Credit Card,Hyderabad,India
+ORD00360,2024-11-28,Customer_121,Smartwatch,Electronics,1,25211,25211,Cash on Delivery,Chennai,India
+ORD00361,2024-06-19,Customer_11,Printer,Electronics,2,34113,68226,UPI,Bangalore,India
+ORD00362,2024-11-13,Customer_219,Printer,Electronics,2,61754,123508,Net Banking,Bangalore,India
+ORD00363,2024-12-13,Customer_131,Monitor,Electronics,1,28116,28116,Debit Card,Chennai,India
+ORD00364,2024-05-18,Customer_76,Monitor,Electronics,5,2874,14370,Cash on Delivery,Pune,India
+ORD00365,2024-07-10,Customer_102,Tablet,Electronics,5,67164,335820,Credit Card,Delhi,India
+ORD00366,2024-01-13,Customer_122,Monitor,Electronics,5,55391,276955,Debit Card,Bangalore,India
+ORD00367,2024-01-19,Customer_135,Smartphone,Electronics,2,54921,109842,Credit Card,Pune,India
+ORD00368,2024-10-17,Customer_105,Tablet,Electronics,4,44892,179568,Credit Card,Bangalore,India
+ORD00369,2024-08-08,Customer_239,Monitor,Electronics,5,27430,137150,Cash on Delivery,Pune,India
+ORD00370,2024-04-16,Customer_213,Monitor,Electronics,1,63822,63822,Debit Card,Kolkata,India
+ORD00371,2024-03-27,Customer_115,Headphones,Accessories,2,3526,7052,Cash on Delivery,Bangalore,India
+ORD00372,2024-11-15,Customer_156,Tablet,Electronics,5,77643,388215,Net Banking,Kolkata,India
+ORD00373,2024-03-23,Customer_192,Printer,Electronics,2,61706,123412,Net Banking,Pune,India
+ORD00374,2024-02-27,Customer_241,Tablet,Electronics,1,51905,51905,Debit Card,Bangalore,India
+ORD00375,2024-05-19,Customer_18,Headphones,Accessories,1,45408,45408,UPI,Delhi,India
+ORD00376,2024-05-24,Customer_25,Smartwatch,Electronics,1,75737,75737,Debit Card,Hyderabad,India
+ORD00377,2024-08-24,Customer_252,Camera,Electronics,4,56763,227052,Credit Card,Hyderabad,India
+ORD00378,2024-11-18,Customer_280,Tablet,Electronics,3,63673,191019,UPI,Mumbai,India
+ORD00379,2024-01-16,Customer_278,Headphones,Accessories,1,51575,51575,Cash on Delivery,Delhi,India
+ORD00380,2024-11-21,Customer_21,Tablet,Electronics,1,37351,37351,Credit Card,Mumbai,India
+ORD00381,2024-12-26,Customer_74,Smartwatch,Electronics,4,26775,107100,Credit Card,Chennai,India
+ORD00382,2024-03-22,Customer_178,Printer,Electronics,4,45242,180968,Cash on Delivery,Delhi,India
+ORD00383,2024-12-23,Customer_44,Smartwatch,Electronics,4,40410,161640,Credit Card,Chennai,India
+ORD00384,2024-02-16,Customer_284,Monitor,Electronics,5,31670,158350,Credit Card,Pune,India
+ORD00385,2024-04-06,Customer_72,Printer,Electronics,4,20083,80332,Cash on Delivery,Bangalore,India
+ORD00386,2024-09-12,Customer_40,Laptop,Electronics,3,18826,56478,Net Banking,Hyderabad,India
+ORD00387,2024-06-16,Customer_200,Tablet,Electronics,2,48418,96836,Net Banking,Delhi,India
+ORD00388,2024-02-11,Customer_212,Monitor,Electronics,1,78704,78704,Debit Card,Kolkata,India
+ORD00389,2024-05-10,Customer_54,Printer,Electronics,2,54048,108096,Cash on Delivery,Mumbai,India
+ORD00390,2024-05-01,Customer_57,Camera,Electronics,3,25165,75495,Net Banking,Kolkata,India
+ORD00391,2024-04-20,Customer_278,Tablet,Electronics,2,13659,27318,Debit Card,Hyderabad,India
+ORD00392,2024-12-11,Customer_181,Laptop,Electronics,2,69611,139222,Debit Card,Hyderabad,India
+ORD00393,2024-06-24,Customer_203,Printer,Electronics,3,59479,178437,Debit Card,Mumbai,India
+ORD00394,2024-04-13,Customer_276,Smartwatch,Electronics,5,52330,261650,Cash on Delivery,Pune,India
+ORD00395,2024-07-28,Customer_213,Printer,Electronics,5,77094,385470,Net Banking,Delhi,India
+ORD00396,2024-02-21,Customer_192,Tablet,Electronics,4,36275,145100,Credit Card,Bangalore,India
+ORD00397,2024-01-17,Customer_83,Smartwatch,Electronics,2,58734,117468,Debit Card,Delhi,India
+ORD00398,2024-05-20,Customer_153,Tablet,Electronics,1,51257,51257,Cash on Delivery,Chennai,India
+ORD00399,2024-12-19,Customer_35,Smartwatch,Electronics,3,78896,236688,Cash on Delivery,Delhi,India
+ORD00400,2024-10-10,Customer_9,Printer,Electronics,2,79643,159286,Credit Card,Hyderabad,India
+ORD00401,2024-03-30,Customer_189,Smartphone,Electronics,4,604,2416,Cash on Delivery,Pune,India
+ORD00402,2024-10-31,Customer_3,Monitor,Electronics,5,3396,16980,Cash on Delivery,Bangalore,India
+ORD00403,2024-11-04,Customer_92,Laptop,Electronics,1,4529,4529,UPI,Chennai,India
+ORD00404,2024-01-09,Customer_71,Laptop,Electronics,1,43055,43055,Debit Card,Delhi,India
+ORD00405,2024-02-25,Customer_194,Laptop,Electronics,4,11694,46776,Net Banking,Mumbai,India
+ORD00406,2024-03-27,Customer_258,Smartwatch,Electronics,3,79848,239544,Net Banking,Delhi,India
+ORD00407,2024-04-11,Customer_135,Smartwatch,Electronics,1,48238,48238,Credit Card,Pune,India
+ORD00408,2024-02-08,Customer_246,Tablet,Electronics,3,54349,163047,Net Banking,Chennai,India
+ORD00409,2024-09-09,Customer_35,Smartwatch,Electronics,3,49798,149394,UPI,Kolkata,India
+ORD00410,2024-04-16,Customer_106,Smartphone,Electronics,4,18447,73788,UPI,Chennai,India
+ORD00411,2024-05-11,Customer_6,Smartwatch,Electronics,5,16997,84985,Debit Card,Chennai,India
+ORD00412,2024-06-05,Customer_70,Laptop,Electronics,5,73569,367845,Credit Card,Pune,India
+ORD00413,2024-04-15,Customer_172,Laptop,Electronics,3,13168,39504,Cash on Delivery,Pune,India
+ORD00414,2024-08-09,Customer_123,Camera,Electronics,2,56892,113784,Cash on Delivery,Mumbai,India
+ORD00415,2024-11-22,Customer_284,Smartwatch,Electronics,2,53584,107168,UPI,Bangalore,India
+ORD00416,2024-06-20,Customer_114,Smartwatch,Electronics,5,9007,45035,Cash on Delivery,Bangalore,India
+ORD00417,2024-12-27,Customer_48,Monitor,Electronics,3,31372,94116,Credit Card,Hyderabad,India
+ORD00418,2024-02-14,Customer_164,Laptop,Electronics,5,39859,199295,UPI,Chennai,India
+ORD00419,2024-01-23,Customer_67,Laptop,Electronics,1,35856,35856,Credit Card,Pune,India
+ORD00420,2024-09-02,Customer_295,Laptop,Electronics,1,9364,9364,UPI,Chennai,India
+ORD00421,2024-05-07,Customer_186,Camera,Electronics,3,18148,54444,UPI,Pune,India
+ORD00422,2024-05-19,Customer_97,Monitor,Electronics,3,78127,234381,Net Banking,Bangalore,India
+ORD00423,2024-01-13,Customer_241,Tablet,Electronics,5,65008,325040,Credit Card,Hyderabad,India
+ORD00424,2024-06-02,Customer_141,Smartwatch,Electronics,1,4391,4391,Debit Card,Hyderabad,India
+ORD00425,2024-12-29,Customer_15,Smartphone,Electronics,1,14639,14639,UPI,Hyderabad,India
+ORD00426,2024-07-17,Customer_72,Laptop,Electronics,5,8911,44555,Cash on Delivery,Hyderabad,India
+ORD00427,2024-05-22,Customer_181,Laptop,Electronics,1,51412,51412,Credit Card,Chennai,India
+ORD00428,2024-12-24,Customer_263,Laptop,Electronics,5,58609,293045,Debit Card,Bangalore,India
+ORD00429,2024-06-24,Customer_31,Tablet,Electronics,3,47252,141756,Debit Card,Hyderabad,India
+ORD00430,2024-08-28,Customer_121,Camera,Electronics,2,23647,47294,Credit Card,Hyderabad,India
+ORD00431,2024-12-04,Customer_188,Printer,Electronics,4,21652,86608,Cash on Delivery,Hyderabad,India
+ORD00432,2024-04-26,Customer_225,Smartwatch,Electronics,5,68544,342720,Net Banking,Pune,India
+ORD00433,2024-03-29,Customer_11,Printer,Electronics,1,2523,2523,Credit Card,Pune,India
+ORD00434,2024-11-28,Customer_170,Camera,Electronics,5,27074,135370,UPI,Chennai,India
+ORD00435,2024-09-24,Customer_49,Tablet,Electronics,1,59692,59692,Cash on Delivery,Pune,India
+ORD00436,2024-12-09,Customer_2,Headphones,Accessories,5,61724,308620,Net Banking,Bangalore,India
+ORD00437,2024-06-11,Customer_188,Monitor,Electronics,1,69438,69438,Debit Card,Hyderabad,India
+ORD00438,2024-06-09,Customer_185,Printer,Electronics,1,17164,17164,Debit Card,Mumbai,India
+ORD00439,2024-09-05,Customer_223,Printer,Electronics,1,21848,21848,Debit Card,Chennai,India
+ORD00440,2024-02-12,Customer_59,Printer,Electronics,5,38342,191710,Cash on Delivery,Chennai,India
+ORD00441,2024-07-01,Customer_186,Headphones,Accessories,3,10815,32445,Net Banking,Pune,India
+ORD00442,2024-02-29,Customer_174,Tablet,Electronics,1,79790,79790,Credit Card,Mumbai,India
+ORD00443,2024-07-07,Customer_85,Printer,Electronics,1,26980,26980,Credit Card,Mumbai,India
+ORD00444,2024-01-26,Customer_77,Smartwatch,Electronics,1,53212,53212,Debit Card,Hyderabad,India
+ORD00445,2024-09-03,Customer_64,Tablet,Electronics,4,28823,115292,Net Banking,Delhi,India
+ORD00446,2024-05-09,Customer_31,Smartwatch,Electronics,2,59652,119304,Cash on Delivery,Bangalore,India
+ORD00447,2024-08-10,Customer_222,Monitor,Electronics,3,51998,155994,Cash on Delivery,Pune,India
+ORD00448,2024-03-29,Customer_198,Monitor,Electronics,1,64510,64510,Net Banking,Delhi,India
+ORD00449,2024-10-23,Customer_59,Headphones,Accessories,3,26019,78057,Net Banking,Chennai,India
+ORD00450,2024-06-04,Customer_5,Tablet,Electronics,4,57031,228124,Credit Card,Delhi,India
+ORD00451,2024-04-18,Customer_107,Smartwatch,Electronics,3,37128,111384,Debit Card,Pune,India
+ORD00452,2024-06-11,Customer_10,Printer,Electronics,2,69967,139934,Cash on Delivery,Bangalore,India
+ORD00453,2024-01-12,Customer_46,Camera,Electronics,1,11398,11398,UPI,Kolkata,India
+ORD00454,2024-03-29,Customer_218,Smartwatch,Electronics,3,12558,37674,Credit Card,Pune,India
+ORD00455,2024-08-07,Customer_286,Smartphone,Electronics,1,61516,61516,Cash on Delivery,Delhi,India
+ORD00456,2024-08-01,Customer_54,Laptop,Electronics,1,12454,12454,Credit Card,Kolkata,India
+ORD00457,2024-06-12,Customer_90,Smartwatch,Electronics,3,8736,26208,Debit Card,Chennai,India
+ORD00458,2024-05-21,Customer_138,Tablet,Electronics,2,64755,129510,Debit Card,Pune,India
+ORD00459,2024-03-29,Customer_121,Smartphone,Electronics,5,59157,295785,Net Banking,Bangalore,India
+ORD00460,2024-03-25,Customer_30,Laptop,Electronics,1,6490,6490,Debit Card,Delhi,India
+ORD00461,2024-01-20,Customer_92,Tablet,Electronics,5,2958,14790,Debit Card,Chennai,India
+ORD00462,2024-07-15,Customer_130,Printer,Electronics,3,70104,210312,Net Banking,Chennai,India
+ORD00463,2024-06-13,Customer_203,Laptop,Electronics,5,17811,89055,Cash on Delivery,Kolkata,India
+ORD00464,2024-05-12,Customer_189,Camera,Electronics,3,4471,13413,Debit Card,Bangalore,India
+ORD00465,2024-04-19,Customer_28,Headphones,Accessories,1,35474,35474,Debit Card,Kolkata,India
+ORD00466,2024-01-02,Customer_15,Smartwatch,Electronics,2,58738,117476,Net Banking,Delhi,India
+ORD00467,2024-11-10,Customer_262,Tablet,Electronics,1,10072,10072,Debit Card,Bangalore,India
+ORD00468,2024-04-16,Customer_284,Tablet,Electronics,3,66388,199164,Debit Card,Kolkata,India
+ORD00469,2024-12-03,Customer_281,Headphones,Accessories,1,48550,48550,Net Banking,Hyderabad,India
+ORD00470,2024-07-14,Customer_46,Tablet,Electronics,4,14471,57884,Credit Card,Hyderabad,India
+ORD00471,2024-07-04,Customer_184,Smartwatch,Electronics,1,4647,4647,UPI,Chennai,India
+ORD00472,2024-05-12,Customer_171,Tablet,Electronics,1,66505,66505,UPI,Chennai,India
+ORD00473,2024-11-21,Customer_294,Camera,Electronics,3,57352,172056,UPI,Pune,India
+ORD00474,2024-07-05,Customer_108,Laptop,Electronics,2,61166,122332,Credit Card,Bangalore,India
+ORD00475,2024-04-21,Customer_115,Laptop,Electronics,2,72157,144314,Debit Card,Bangalore,India
+ORD00476,2024-07-11,Customer_108,Smartphone,Electronics,5,2175,10875,Cash on Delivery,Mumbai,India
+ORD00477,2024-05-22,Customer_224,Laptop,Electronics,4,17326,69304,Debit Card,Kolkata,India
+ORD00478,2024-01-02,Customer_240,Headphones,Accessories,4,19068,76272,Credit Card,Kolkata,India
+ORD00479,2024-11-30,Customer_30,Camera,Electronics,2,79201,158402,Cash on Delivery,Mumbai,India
+ORD00480,2024-05-07,Customer_281,Laptop,Electronics,5,59996,299980,Cash on Delivery,Kolkata,India
+ORD00481,2024-03-16,Customer_36,Smartwatch,Electronics,3,75315,225945,Net Banking,Delhi,India
+ORD00482,2024-06-18,Customer_14,Monitor,Electronics,2,72503,145006,UPI,Hyderabad,India
+ORD00483,2024-05-03,Customer_120,Headphones,Accessories,2,51404,102808,Net Banking,Hyderabad,India
+ORD00484,2024-06-12,Customer_128,Monitor,Electronics,3,15653,46959,Credit Card,Hyderabad,India
+ORD00485,2024-09-27,Customer_172,Camera,Electronics,5,75220,376100,Debit Card,Bangalore,India
+ORD00486,2024-09-25,Customer_181,Laptop,Electronics,1,34599,34599,Credit Card,Hyderabad,India
+ORD00487,2024-01-26,Customer_233,Camera,Electronics,3,8979,26937,UPI,Chennai,India
+ORD00488,2024-07-11,Customer_163,Smartphone,Electronics,1,44955,44955,Cash on Delivery,Kolkata,India
+ORD00489,2024-06-08,Customer_154,Smartwatch,Electronics,3,30099,90297,Credit Card,Pune,India
+ORD00490,2024-06-07,Customer_69,Smartwatch,Electronics,4,8183,32732,Cash on Delivery,Kolkata,India
+ORD00491,2024-09-23,Customer_292,Smartwatch,Electronics,2,26850,53700,UPI,Kolkata,India
+ORD00492,2024-03-03,Customer_5,Laptop,Electronics,3,10106,30318,Debit Card,Hyderabad,India
+ORD00493,2024-11-18,Customer_29,Camera,Electronics,5,14961,74805,Debit Card,Pune,India
+ORD00494,2024-10-07,Customer_61,Headphones,Accessories,3,9084,27252,Cash on Delivery,Bangalore,India
+ORD00495,2024-08-09,Customer_40,Laptop,Electronics,1,28501,28501,UPI,Mumbai,India
+ORD00496,2024-03-26,Customer_99,Printer,Electronics,1,42163,42163,Debit Card,Chennai,India
+ORD00497,2024-08-19,Customer_142,Camera,Electronics,5,29085,145425,Debit Card,Hyderabad,India
+ORD00498,2024-07-08,Customer_45,Headphones,Accessories,4,61593,246372,UPI,Hyderabad,India
+ORD00499,2024-08-25,Customer_152,Printer,Electronics,5,61718,308590,Debit Card,Kolkata,India
+ORD00500,2024-07-10,Customer_84,Smartphone,Electronics,4,50449,201796,Net Banking,Chennai,India
+ORD00501,2024-06-12,Customer_33,Laptop,Electronics,5,78524,392620,Debit Card,Mumbai,India
+ORD00502,2024-02-09,Customer_119,Printer,Electronics,5,58233,291165,Debit Card,Bangalore,India
+ORD00503,2024-08-31,Customer_89,Laptop,Electronics,5,33958,169790,Cash on Delivery,Chennai,India
+ORD00504,2024-07-15,Customer_41,Headphones,Accessories,5,46818,234090,Debit Card,Kolkata,India
+ORD00505,2024-10-21,Customer_300,Tablet,Electronics,3,50007,150021,Net Banking,Kolkata,India
+ORD00506,2024-10-10,Customer_161,Tablet,Electronics,1,4657,4657,Net Banking,Delhi,India
+ORD00507,2024-04-30,Customer_129,Monitor,Electronics,2,13146,26292,Net Banking,Mumbai,India
+ORD00508,2024-11-11,Customer_66,Laptop,Electronics,4,10533,42132,UPI,Mumbai,India
+ORD00509,2024-11-18,Customer_284,Printer,Electronics,2,3150,6300,UPI,Delhi,India
+ORD00510,2024-08-20,Customer_78,Printer,Electronics,1,54837,54837,Net Banking,Pune,India
+ORD00511,2024-06-12,Customer_26,Laptop,Electronics,2,10757,21514,Cash on Delivery,Pune,India
+ORD00512,2024-11-21,Customer_103,Smartphone,Electronics,5,53836,269180,Cash on Delivery,Mumbai,India
+ORD00513,2024-10-24,Customer_178,Laptop,Electronics,3,41238,123714,Cash on Delivery,Hyderabad,India
+ORD00514,2024-05-04,Customer_2,Smartphone,Electronics,3,57110,171330,UPI,Pune,India
+ORD00515,2024-11-09,Customer_260,Smartwatch,Electronics,3,64810,194430,UPI,Mumbai,India
+ORD00516,2024-09-06,Customer_75,Tablet,Electronics,1,26450,26450,Cash on Delivery,Bangalore,India
+ORD00517,2024-01-02,Customer_150,Headphones,Accessories,1,29508,29508,Debit Card,Chennai,India
+ORD00518,2024-09-26,Customer_80,Smartphone,Electronics,1,24921,24921,Credit Card,Hyderabad,India
+ORD00519,2024-07-31,Customer_224,Monitor,Electronics,2,47259,94518,UPI,Hyderabad,India
+ORD00520,2024-03-26,Customer_14,Tablet,Electronics,1,678,678,Credit Card,Chennai,India
+ORD00521,2024-04-07,Customer_245,Monitor,Electronics,3,48063,144189,Cash on Delivery,Mumbai,India
+ORD00522,2024-08-13,Customer_291,Smartphone,Electronics,1,76371,76371,Cash on Delivery,Kolkata,India
+ORD00523,2024-10-16,Customer_198,Camera,Electronics,2,37459,74918,Net Banking,Pune,India
+ORD00524,2024-05-16,Customer_120,Headphones,Accessories,3,35064,105192,Net Banking,Mumbai,India
+ORD00525,2024-08-17,Customer_27,Smartwatch,Electronics,4,48569,194276,Debit Card,Pune,India
+ORD00526,2024-02-09,Customer_97,Headphones,Accessories,3,61906,185718,Net Banking,Mumbai,India
+ORD00527,2024-11-25,Customer_251,Smartwatch,Electronics,2,41984,83968,Credit Card,Hyderabad,India
+ORD00528,2024-10-23,Customer_80,Monitor,Electronics,2,37892,75784,Credit Card,Bangalore,India
+ORD00529,2024-01-13,Customer_41,Printer,Electronics,3,71652,214956,Cash on Delivery,Pune,India
+ORD00530,2024-10-28,Customer_149,Printer,Electronics,4,33705,134820,Credit Card,Chennai,India
+ORD00531,2024-12-12,Customer_15,Camera,Electronics,4,51828,207312,Debit Card,Delhi,India
+ORD00532,2024-10-03,Customer_166,Smartphone,Electronics,3,49952,149856,UPI,Mumbai,India
+ORD00533,2024-01-22,Customer_1,Smartphone,Electronics,1,55744,55744,UPI,Delhi,India
+ORD00534,2024-05-26,Customer_253,Printer,Electronics,5,67326,336630,Cash on Delivery,Pune,India
+ORD00535,2024-02-05,Customer_130,Camera,Electronics,4,3234,12936,UPI,Hyderabad,India
+ORD00536,2024-11-02,Customer_70,Laptop,Electronics,2,24381,48762,Debit Card,Pune,India
+ORD00537,2024-02-18,Customer_17,Laptop,Electronics,3,3491,10473,Debit Card,Kolkata,India
+ORD00538,2024-06-22,Customer_172,Smartphone,Electronics,5,8940,44700,Debit Card,Bangalore,India
+ORD00539,2024-11-24,Customer_220,Camera,Electronics,3,67090,201270,Credit Card,Bangalore,India
+ORD00540,2024-05-03,Customer_268,Smartphone,Electronics,1,37919,37919,Debit Card,Chennai,India
+ORD00541,2024-04-27,Customer_262,Printer,Electronics,5,11880,59400,UPI,Delhi,India
+ORD00542,2024-10-17,Customer_244,Printer,Electronics,3,67090,201270,Net Banking,Chennai,India
+ORD00543,2024-09-29,Customer_281,Monitor,Electronics,3,17538,52614,Credit Card,Kolkata,India
+ORD00544,2024-03-09,Customer_178,Monitor,Electronics,5,70566,352830,Credit Card,Bangalore,India
+ORD00545,2024-12-27,Customer_154,Headphones,Accessories,3,16990,50970,Net Banking,Bangalore,India
+ORD00546,2024-10-11,Customer_174,Headphones,Accessories,2,44373,88746,Debit Card,Hyderabad,India
+ORD00547,2024-10-13,Customer_172,Smartphone,Electronics,2,49793,99586,Net Banking,Pune,India
+ORD00548,2024-09-22,Customer_131,Camera,Electronics,4,74224,296896,UPI,Kolkata,India
+ORD00549,2024-03-29,Customer_215,Camera,Electronics,2,62150,124300,UPI,Bangalore,India
+ORD00550,2024-12-19,Customer_84,Camera,Electronics,5,75244,376220,Debit Card,Chennai,India
+ORD00551,2024-03-01,Customer_284,Camera,Electronics,3,10291,30873,Debit Card,Chennai,India
+ORD00552,2024-10-13,Customer_90,Laptop,Electronics,5,46733,233665,Debit Card,Hyderabad,India
+ORD00553,2024-02-23,Customer_42,Monitor,Electronics,5,16240,81200,Net Banking,Delhi,India
+ORD00554,2024-09-08,Customer_220,Tablet,Electronics,2,52755,105510,Net Banking,Chennai,India
+ORD00555,2024-04-28,Customer_172,Monitor,Electronics,2,53826,107652,Credit Card,Kolkata,India
+ORD00556,2024-05-02,Customer_122,Laptop,Electronics,5,13312,66560,Cash on Delivery,Delhi,India
+ORD00557,2024-08-07,Customer_18,Smartphone,Electronics,2,76235,152470,Cash on Delivery,Chennai,India
+ORD00558,2024-07-26,Customer_229,Camera,Electronics,4,61942,247768,Credit Card,Hyderabad,India
+ORD00559,2024-12-13,Customer_49,Tablet,Electronics,1,10429,10429,UPI,Mumbai,India
+ORD00560,2024-04-21,Customer_21,Tablet,Electronics,2,13074,26148,Credit Card,Hyderabad,India
+ORD00561,2024-10-08,Customer_181,Headphones,Accessories,3,18037,54111,Net Banking,Kolkata,India
+ORD00562,2024-10-27,Customer_265,Smartphone,Electronics,4,50209,200836,Debit Card,Chennai,India
+ORD00563,2024-04-06,Customer_256,Smartphone,Electronics,5,20724,103620,Credit Card,Kolkata,India
+ORD00564,2024-02-13,Customer_283,Smartwatch,Electronics,3,45400,136200,Debit Card,Mumbai,India
+ORD00565,2024-04-28,Customer_14,Smartphone,Electronics,1,40662,40662,Debit Card,Pune,India
+ORD00566,2024-02-13,Customer_157,Tablet,Electronics,1,54233,54233,UPI,Hyderabad,India
+ORD00567,2024-09-19,Customer_137,Smartphone,Electronics,2,57993,115986,Credit Card,Pune,India
+ORD00568,2024-02-24,Customer_224,Printer,Electronics,5,19386,96930,Net Banking,Pune,India
+ORD00569,2024-11-02,Customer_277,Headphones,Accessories,5,30450,152250,Debit Card,Delhi,India
+ORD00570,2024-05-02,Customer_83,Smartwatch,Electronics,3,45828,137484,Debit Card,Chennai,India
+ORD00571,2024-01-09,Customer_100,Camera,Electronics,3,16264,48792,Net Banking,Hyderabad,India
+ORD00572,2024-02-03,Customer_245,Smartphone,Electronics,5,79290,396450,Cash on Delivery,Chennai,India
+ORD00573,2024-02-09,Customer_244,Tablet,Electronics,1,702,702,UPI,Hyderabad,India
+ORD00574,2024-06-21,Customer_14,Laptop,Electronics,2,72036,144072,Credit Card,Hyderabad,India
+ORD00575,2024-01-21,Customer_223,Printer,Electronics,4,1704,6816,Credit Card,Chennai,India
+ORD00576,2024-05-11,Customer_290,Headphones,Accessories,2,69550,139100,Cash on Delivery,Hyderabad,India
+ORD00577,2024-07-05,Customer_5,Smartphone,Electronics,3,25110,75330,UPI,Chennai,India
+ORD00578,2024-08-15,Customer_260,Laptop,Electronics,5,1112,5560,Debit Card,Chennai,India
+ORD00579,2024-05-04,Customer_5,Camera,Electronics,4,62954,251816,Net Banking,Chennai,India
+ORD00580,2024-05-03,Customer_153,Camera,Electronics,5,30884,154420,Debit Card,Kolkata,India
+ORD00581,2024-02-02,Customer_259,Monitor,Electronics,3,72194,216582,UPI,Chennai,India
+ORD00582,2024-11-28,Customer_280,Monitor,Electronics,1,65747,65747,Net Banking,Hyderabad,India
+ORD00583,2024-08-28,Customer_188,Headphones,Accessories,1,74002,74002,Debit Card,Hyderabad,India
+ORD00584,2024-11-13,Customer_177,Tablet,Electronics,4,29745,118980,Net Banking,Bangalore,India
+ORD00585,2024-01-16,Customer_228,Printer,Electronics,4,36114,144456,Debit Card,Mumbai,India
+ORD00586,2024-10-02,Customer_164,Tablet,Electronics,5,69628,348140,Cash on Delivery,Bangalore,India
+ORD00587,2024-08-10,Customer_26,Laptop,Electronics,5,54113,270565,Debit Card,Bangalore,India
+ORD00588,2024-12-23,Customer_47,Printer,Electronics,5,35225,176125,UPI,Pune,India
+ORD00589,2024-03-21,Customer_88,Laptop,Electronics,2,15637,31274,Cash on Delivery,Pune,India
+ORD00590,2024-08-26,Customer_265,Printer,Electronics,2,38775,77550,UPI,Kolkata,India
+ORD00591,2024-11-08,Customer_229,Headphones,Accessories,1,13709,13709,Cash on Delivery,Bangalore,India
+ORD00592,2024-04-10,Customer_84,Monitor,Electronics,5,18827,94135,Credit Card,Chennai,India
+ORD00593,2024-03-30,Customer_13,Smartphone,Electronics,5,48707,243535,UPI,Chennai,India
+ORD00594,2024-02-10,Customer_222,Laptop,Electronics,2,25773,51546,Net Banking,Mumbai,India
+ORD00595,2024-11-10,Customer_230,Headphones,Accessories,2,55428,110856,Cash on Delivery,Pune,India
+ORD00596,2024-12-01,Customer_55,Laptop,Electronics,2,43568,87136,Debit Card,Mumbai,India
+ORD00597,2024-04-29,Customer_126,Smartphone,Electronics,2,60946,121892,Net Banking,Kolkata,India
+ORD00598,2024-05-01,Customer_38,Tablet,Electronics,2,7059,14118,Credit Card,Mumbai,India
+ORD00599,2024-08-15,Customer_151,Monitor,Electronics,5,19432,97160,Debit Card,Mumbai,India
+ORD00600,2024-12-07,Customer_140,Smartwatch,Electronics,5,18484,92420,Credit Card,Bangalore,India
+ORD00601,2024-12-29,Customer_128,Smartwatch,Electronics,1,44156,44156,Debit Card,Delhi,India
+ORD00602,2024-08-17,Customer_67,Printer,Electronics,4,77288,309152,Net Banking,Delhi,India
+ORD00603,2024-12-03,Customer_206,Headphones,Accessories,2,53326,106652,Cash on Delivery,Hyderabad,India
+ORD00604,2024-05-11,Customer_288,Headphones,Accessories,1,41718,41718,Debit Card,Kolkata,India
+ORD00605,2024-08-02,Customer_107,Printer,Electronics,5,73945,369725,UPI,Delhi,India
+ORD00606,2024-09-03,Customer_108,Smartphone,Electronics,3,79334,238002,UPI,Chennai,India
+ORD00607,2024-02-27,Customer_222,Monitor,Electronics,5,15597,77985,Net Banking,Delhi,India
+ORD00608,2024-04-19,Customer_88,Printer,Electronics,1,22233,22233,UPI,Kolkata,India
+ORD00609,2024-03-16,Customer_235,Tablet,Electronics,5,53919,269595,Cash on Delivery,Chennai,India
+ORD00610,2024-12-24,Customer_36,Smartphone,Electronics,3,77951,233853,Net Banking,Delhi,India
+ORD00611,2024-12-25,Customer_218,Monitor,Electronics,3,21067,63201,Net Banking,Mumbai,India
+ORD00612,2024-07-23,Customer_45,Tablet,Electronics,5,40733,203665,Net Banking,Bangalore,India
+ORD00613,2024-01-09,Customer_271,Printer,Electronics,4,54097,216388,Debit Card,Hyderabad,India
+ORD00614,2024-05-07,Customer_247,Tablet,Electronics,2,49409,98818,Credit Card,Hyderabad,India
+ORD00615,2024-12-03,Customer_241,Printer,Electronics,2,74668,149336,Net Banking,Delhi,India
+ORD00616,2024-08-21,Customer_107,Printer,Electronics,2,65935,131870,Net Banking,Chennai,India
+ORD00617,2024-07-19,Customer_208,Camera,Electronics,1,28218,28218,UPI,Chennai,India
+ORD00618,2024-08-10,Customer_97,Monitor,Electronics,1,76044,76044,Net Banking,Mumbai,India
+ORD00619,2024-07-09,Customer_133,Smartphone,Electronics,5,69536,347680,Debit Card,Delhi,India
+ORD00620,2024-07-21,Customer_240,Camera,Electronics,5,12735,63675,Net Banking,Pune,India
+ORD00621,2024-10-11,Customer_86,Smartwatch,Electronics,4,35659,142636,Debit Card,Hyderabad,India
+ORD00622,2024-07-21,Customer_226,Printer,Electronics,1,15489,15489,Net Banking,Kolkata,India
+ORD00623,2024-11-22,Customer_10,Headphones,Accessories,2,16549,33098,UPI,Mumbai,India
+ORD00624,2024-08-02,Customer_188,Camera,Electronics,1,60833,60833,Net Banking,Hyderabad,India
+ORD00625,2024-03-28,Customer_104,Smartphone,Electronics,2,78816,157632,UPI,Bangalore,India
+ORD00626,2024-06-15,Customer_107,Monitor,Electronics,1,14435,14435,Credit Card,Pune,India
+ORD00627,2024-09-26,Customer_179,Printer,Electronics,5,34243,171215,Cash on Delivery,Chennai,India
+ORD00628,2024-08-26,Customer_121,Camera,Electronics,3,20641,61923,Debit Card,Bangalore,India
+ORD00629,2024-08-07,Customer_279,Printer,Electronics,4,25778,103112,UPI,Hyderabad,India
+ORD00630,2024-05-31,Customer_87,Smartwatch,Electronics,1,8146,8146,Cash on Delivery,Delhi,India
+ORD00631,2024-07-04,Customer_128,Monitor,Electronics,2,23417,46834,Cash on Delivery,Kolkata,India
+ORD00632,2024-04-18,Customer_113,Monitor,Electronics,5,36654,183270,Debit Card,Kolkata,India
+ORD00633,2024-10-08,Customer_125,Smartphone,Electronics,5,58271,291355,UPI,Mumbai,India
+ORD00634,2024-09-22,Customer_202,Camera,Electronics,1,21248,21248,Credit Card,Chennai,India
+ORD00635,2024-05-22,Customer_71,Monitor,Electronics,1,23901,23901,UPI,Kolkata,India
+ORD00636,2024-05-28,Customer_173,Headphones,Accessories,1,18438,18438,Net Banking,Kolkata,India
+ORD00637,2024-02-05,Customer_132,Smartphone,Electronics,1,6473,6473,Cash on Delivery,Bangalore,India
+ORD00638,2024-06-28,Customer_82,Monitor,Electronics,4,76268,305072,Cash on Delivery,Hyderabad,India
+ORD00639,2024-04-21,Customer_289,Headphones,Accessories,4,72934,291736,Debit Card,Pune,India
+ORD00640,2024-05-06,Customer_255,Laptop,Electronics,4,63869,255476,Debit Card,Kolkata,India
+ORD00641,2024-08-15,Customer_45,Headphones,Accessories,5,26868,134340,Debit Card,Hyderabad,India
+ORD00642,2024-05-12,Customer_106,Smartwatch,Electronics,3,4884,14652,Cash on Delivery,Mumbai,India
+ORD00643,2024-08-16,Customer_205,Smartwatch,Electronics,3,3222,9666,Cash on Delivery,Bangalore,India
+ORD00644,2024-01-29,Customer_167,Monitor,Electronics,1,6488,6488,UPI,Pune,India
+ORD00645,2024-11-04,Customer_80,Smartphone,Electronics,5,16948,84740,Net Banking,Delhi,India
+ORD00646,2024-11-10,Customer_256,Printer,Electronics,1,43950,43950,UPI,Delhi,India
+ORD00647,2024-06-07,Customer_29,Laptop,Electronics,5,48510,242550,Credit Card,Hyderabad,India
+ORD00648,2024-09-24,Customer_297,Headphones,Accessories,2,16507,33014,Debit Card,Bangalore,India
+ORD00649,2024-11-17,Customer_297,Camera,Electronics,1,17015,17015,Cash on Delivery,Hyderabad,India
+ORD00650,2024-03-04,Customer_78,Camera,Electronics,2,13754,27508,Credit Card,Pune,India
+ORD00651,2024-12-16,Customer_121,Printer,Electronics,1,77788,77788,UPI,Bangalore,India
+ORD00652,2024-12-31,Customer_155,Smartwatch,Electronics,3,37959,113877,Cash on Delivery,Chennai,India
+ORD00653,2024-03-20,Customer_171,Smartwatch,Electronics,4,57318,229272,Credit Card,Chennai,India
+ORD00654,2024-12-17,Customer_204,Headphones,Accessories,2,22828,45656,Credit Card,Mumbai,India
+ORD00655,2024-05-26,Customer_266,Monitor,Electronics,3,2499,7497,Debit Card,Mumbai,India
+ORD00656,2024-07-20,Customer_36,Laptop,Electronics,2,37991,75982,Cash on Delivery,Hyderabad,India
+ORD00657,2024-05-23,Customer_24,Smartwatch,Electronics,1,24905,24905,Credit Card,Chennai,India
+ORD00658,2024-01-29,Customer_25,Headphones,Accessories,4,12650,50600,Credit Card,Pune,India
+ORD00659,2024-11-10,Customer_249,Printer,Electronics,4,6335,25340,Net Banking,Chennai,India
+ORD00660,2024-07-28,Customer_193,Monitor,Electronics,3,39333,117999,Net Banking,Pune,India
+ORD00661,2024-07-08,Customer_133,Smartwatch,Electronics,4,19632,78528,UPI,Pune,India
+ORD00662,2024-12-19,Customer_64,Headphones,Accessories,4,35915,143660,Credit Card,Chennai,India
+ORD00663,2024-03-24,Customer_15,Printer,Electronics,5,67529,337645,Net Banking,Mumbai,India
+ORD00664,2024-01-02,Customer_202,Monitor,Electronics,2,44776,89552,Cash on Delivery,Hyderabad,India
+ORD00665,2024-05-17,Customer_20,Monitor,Electronics,2,53712,107424,Credit Card,Chennai,India
+ORD00666,2024-09-10,Customer_43,Monitor,Electronics,1,58603,58603,Credit Card,Bangalore,India
+ORD00667,2024-01-23,Customer_296,Monitor,Electronics,1,56285,56285,Net Banking,Chennai,India
+ORD00668,2024-01-04,Customer_138,Smartwatch,Electronics,1,11708,11708,Cash on Delivery,Hyderabad,India
+ORD00669,2024-10-10,Customer_60,Smartwatch,Electronics,3,39515,118545,Credit Card,Pune,India
+ORD00670,2024-05-08,Customer_51,Tablet,Electronics,2,65767,131534,Credit Card,Bangalore,India
+ORD00671,2024-02-01,Customer_281,Headphones,Accessories,1,31471,31471,Debit Card,Bangalore,India
+ORD00672,2024-04-28,Customer_79,Smartphone,Electronics,2,8539,17078,Debit Card,Pune,India
+ORD00673,2024-10-31,Customer_261,Smartwatch,Electronics,1,64917,64917,Credit Card,Pune,India
+ORD00674,2024-05-08,Customer_274,Camera,Electronics,1,47766,47766,Credit Card,Chennai,India
+ORD00675,2024-11-12,Customer_124,Camera,Electronics,1,61268,61268,Credit Card,Bangalore,India
+ORD00676,2024-06-03,Customer_240,Tablet,Electronics,3,38094,114282,Credit Card,Mumbai,India
+ORD00677,2024-12-12,Customer_163,Smartphone,Electronics,2,10714,21428,Credit Card,Pune,India
+ORD00678,2024-12-27,Customer_258,Printer,Electronics,4,40210,160840,UPI,Kolkata,India
+ORD00679,2024-02-21,Customer_243,Headphones,Accessories,1,26501,26501,Debit Card,Mumbai,India
+ORD00680,2024-04-08,Customer_143,Tablet,Electronics,4,19273,77092,UPI,Hyderabad,India
+ORD00681,2024-05-10,Customer_219,Tablet,Electronics,5,65578,327890,Debit Card,Hyderabad,India
+ORD00682,2024-05-18,Customer_237,Smartphone,Electronics,1,8613,8613,Net Banking,Kolkata,India
+ORD00683,2024-01-15,Customer_187,Printer,Electronics,2,33786,67572,Debit Card,Chennai,India
+ORD00684,2024-11-02,Customer_25,Smartwatch,Electronics,1,9612,9612,Debit Card,Chennai,India
+ORD00685,2024-12-20,Customer_55,Smartwatch,Electronics,1,25372,25372,Cash on Delivery,Chennai,India
+ORD00686,2024-04-13,Customer_2,Smartphone,Electronics,1,77118,77118,UPI,Hyderabad,India
+ORD00687,2024-07-05,Customer_114,Headphones,Accessories,5,40674,203370,Net Banking,Pune,India
+ORD00688,2024-07-27,Customer_59,Smartphone,Electronics,3,79006,237018,Net Banking,Hyderabad,India
+ORD00689,2024-11-13,Customer_114,Printer,Electronics,1,19491,19491,Debit Card,Chennai,India
+ORD00690,2024-10-15,Customer_95,Tablet,Electronics,4,77752,311008,UPI,Hyderabad,India
+ORD00691,2024-01-26,Customer_23,Camera,Electronics,3,39199,117597,Cash on Delivery,Hyderabad,India
+ORD00692,2024-04-25,Customer_42,Headphones,Accessories,2,49829,99658,Net Banking,Pune,India
+ORD00693,2024-10-16,Customer_276,Monitor,Electronics,1,7178,7178,Net Banking,Pune,India
+ORD00694,2024-10-14,Customer_189,Camera,Electronics,4,51919,207676,Cash on Delivery,Kolkata,India
+ORD00695,2024-06-03,Customer_284,Headphones,Accessories,5,15068,75340,Net Banking,Kolkata,India
+ORD00696,2024-09-01,Customer_74,Camera,Electronics,4,53711,214844,UPI,Bangalore,India
+ORD00697,2024-05-12,Customer_298,Monitor,Electronics,1,36065,36065,UPI,Bangalore,India
+ORD00698,2024-10-19,Customer_274,Smartwatch,Electronics,1,72006,72006,Net Banking,Hyderabad,India
+ORD00699,2024-07-06,Customer_202,Camera,Electronics,4,27535,110140,Cash on Delivery,Hyderabad,India
+ORD00700,2024-09-21,Customer_117,Tablet,Electronics,3,3506,10518,Net Banking,Mumbai,India
+ORD00701,2024-06-06,Customer_120,Headphones,Accessories,5,20679,103395,Credit Card,Bangalore,India
+ORD00702,2024-09-06,Customer_95,Printer,Electronics,3,20267,60801,Cash on Delivery,Bangalore,India
+ORD00703,2024-12-26,Customer_130,Smartwatch,Electronics,1,70646,70646,Debit Card,Mumbai,India
+ORD00704,2024-11-25,Customer_16,Tablet,Electronics,3,57829,173487,Net Banking,Bangalore,India
+ORD00705,2024-07-07,Customer_205,Smartwatch,Electronics,2,34694,69388,Credit Card,Hyderabad,India
+ORD00706,2024-04-25,Customer_233,Laptop,Electronics,4,53138,212552,Net Banking,Mumbai,India
+ORD00707,2024-01-05,Customer_185,Smartphone,Electronics,4,77167,308668,Net Banking,Kolkata,India
+ORD00708,2024-05-20,Customer_161,Tablet,Electronics,4,10011,40044,Credit Card,Hyderabad,India
+ORD00709,2024-08-23,Customer_93,Monitor,Electronics,3,28825,86475,UPI,Hyderabad,India
+ORD00710,2024-09-25,Customer_250,Laptop,Electronics,4,73872,295488,Debit Card,Hyderabad,India
+ORD00711,2024-08-17,Customer_16,Headphones,Accessories,2,56679,113358,UPI,Mumbai,India
+ORD00712,2024-09-06,Customer_208,Smartphone,Electronics,1,69161,69161,Debit Card,Mumbai,India
+ORD00713,2024-02-27,Customer_132,Printer,Electronics,3,59326,177978,UPI,Hyderabad,India
+ORD00714,2024-11-02,Customer_287,Smartphone,Electronics,5,16073,80365,Cash on Delivery,Pune,India
+ORD00715,2024-04-17,Customer_92,Laptop,Electronics,5,524,2620,UPI,Kolkata,India
+ORD00716,2024-11-30,Customer_21,Camera,Electronics,3,39541,118623,UPI,Kolkata,India
+ORD00717,2024-12-02,Customer_161,Tablet,Electronics,2,8416,16832,Credit Card,Delhi,India
+ORD00718,2024-07-23,Customer_53,Smartphone,Electronics,5,37585,187925,Debit Card,Mumbai,India
+ORD00719,2024-09-04,Customer_14,Printer,Electronics,3,67231,201693,Debit Card,Mumbai,India
+ORD00720,2024-02-18,Customer_75,Camera,Electronics,4,16468,65872,Credit Card,Pune,India
+ORD00721,2024-10-17,Customer_13,Printer,Electronics,4,70831,283324,Debit Card,Chennai,India
+ORD00722,2024-09-01,Customer_257,Tablet,Electronics,1,50568,50568,UPI,Bangalore,India
+ORD00723,2024-01-22,Customer_89,Smartphone,Electronics,4,64710,258840,Net Banking,Kolkata,India
+ORD00724,2024-03-23,Customer_198,Tablet,Electronics,3,62466,187398,Net Banking,Pune,India
+ORD00725,2024-03-10,Customer_125,Monitor,Electronics,2,42183,84366,Cash on Delivery,Pune,India
+ORD00726,2024-05-23,Customer_144,Camera,Electronics,4,15277,61108,Net Banking,Hyderabad,India
+ORD00727,2024-08-07,Customer_26,Monitor,Electronics,1,16182,16182,Net Banking,Mumbai,India
+ORD00728,2024-01-21,Customer_270,Smartwatch,Electronics,5,24432,122160,Debit Card,Pune,India
+ORD00729,2024-08-09,Customer_169,Headphones,Accessories,4,13763,55052,Net Banking,Chennai,India
+ORD00730,2024-04-24,Customer_218,Smartwatch,Electronics,1,40384,40384,Net Banking,Pune,India
+ORD00731,2024-12-30,Customer_38,Headphones,Accessories,1,43103,43103,Cash on Delivery,Delhi,India
+ORD00732,2024-03-08,Customer_175,Smartwatch,Electronics,3,57249,171747,Debit Card,Kolkata,India
+ORD00733,2024-01-25,Customer_201,Smartwatch,Electronics,2,47723,95446,Credit Card,Delhi,India
+ORD00734,2024-01-30,Customer_158,Monitor,Electronics,5,25261,126305,Cash on Delivery,Hyderabad,India
+ORD00735,2024-07-06,Customer_21,Headphones,Accessories,1,63800,63800,UPI,Delhi,India
+ORD00736,2024-01-31,Customer_240,Smartphone,Electronics,3,22894,68682,UPI,Pune,India
+ORD00737,2024-11-23,Customer_253,Smartwatch,Electronics,2,42808,85616,UPI,Delhi,India
+ORD00738,2024-10-02,Customer_212,Tablet,Electronics,1,48375,48375,Net Banking,Hyderabad,India
+ORD00739,2024-08-16,Customer_248,Monitor,Electronics,3,8722,26166,Credit Card,Mumbai,India
+ORD00740,2024-04-08,Customer_202,Monitor,Electronics,3,6267,18801,Cash on Delivery,Bangalore,India
+ORD00741,2024-09-12,Customer_68,Smartphone,Electronics,5,72534,362670,Net Banking,Hyderabad,India
+ORD00742,2024-11-26,Customer_161,Tablet,Electronics,2,71484,142968,Credit Card,Pune,India
+ORD00743,2024-03-31,Customer_253,Smartwatch,Electronics,3,43042,129126,Credit Card,Pune,India
+ORD00744,2024-12-19,Customer_105,Tablet,Electronics,5,28804,144020,Cash on Delivery,Pune,India
+ORD00745,2024-07-31,Customer_237,Headphones,Accessories,2,21401,42802,Debit Card,Delhi,India
+ORD00746,2024-02-21,Customer_176,Camera,Electronics,5,16271,81355,UPI,Hyderabad,India
+ORD00747,2024-08-16,Customer_189,Smartwatch,Electronics,2,67919,135838,Credit Card,Bangalore,India
+ORD00748,2024-06-03,Customer_278,Smartwatch,Electronics,3,29231,87693,Debit Card,Bangalore,India
+ORD00749,2024-05-29,Customer_108,Camera,Electronics,1,56342,56342,UPI,Pune,India
+ORD00750,2024-03-13,Customer_56,Tablet,Electronics,3,61451,184353,Cash on Delivery,Chennai,India
+ORD00751,2024-06-24,Customer_148,Laptop,Electronics,3,73181,219543,Net Banking,Hyderabad,India
+ORD00752,2024-09-30,Customer_4,Printer,Electronics,5,27185,135925,Debit Card,Mumbai,India
+ORD00753,2024-09-11,Customer_108,Smartwatch,Electronics,2,49335,98670,Net Banking,Bangalore,India
+ORD00754,2024-08-18,Customer_155,Tablet,Electronics,2,49188,98376,Net Banking,Mumbai,India
+ORD00755,2024-08-16,Customer_32,Smartphone,Electronics,3,42372,127116,Net Banking,Bangalore,India
+ORD00756,2024-08-14,Customer_138,Smartwatch,Electronics,1,21186,21186,Cash on Delivery,Delhi,India
+ORD00757,2024-12-02,Customer_110,Headphones,Accessories,1,38351,38351,Credit Card,Pune,India
+ORD00758,2024-05-16,Customer_282,Smartphone,Electronics,5,46742,233710,Net Banking,Hyderabad,India
+ORD00759,2024-08-17,Customer_77,Tablet,Electronics,5,1597,7985,Debit Card,Hyderabad,India
+ORD00760,2024-04-10,Customer_55,Smartphone,Electronics,3,45895,137685,Cash on Delivery,Kolkata,India
+ORD00761,2024-05-05,Customer_257,Headphones,Accessories,3,35290,105870,UPI,Pune,India
+ORD00762,2024-05-14,Customer_19,Printer,Electronics,3,58553,175659,Credit Card,Bangalore,India
+ORD00763,2024-06-17,Customer_237,Monitor,Electronics,2,39707,79414,Cash on Delivery,Hyderabad,India
+ORD00764,2024-02-18,Customer_82,Monitor,Electronics,4,39670,158680,Cash on Delivery,Pune,India
+ORD00765,2024-03-29,Customer_257,Camera,Electronics,5,4462,22310,UPI,Bangalore,India
+ORD00766,2024-07-09,Customer_251,Headphones,Accessories,5,75496,377480,Net Banking,Mumbai,India
+ORD00767,2024-09-19,Customer_46,Smartphone,Electronics,4,18412,73648,Debit Card,Delhi,India
+ORD00768,2024-03-01,Customer_39,Smartphone,Electronics,5,31009,155045,UPI,Hyderabad,India
+ORD00769,2024-04-26,Customer_154,Camera,Electronics,5,12739,63695,UPI,Mumbai,India
+ORD00770,2024-02-13,Customer_77,Smartwatch,Electronics,1,63044,63044,Debit Card,Delhi,India
+ORD00771,2024-01-05,Customer_27,Monitor,Electronics,4,73453,293812,Net Banking,Kolkata,India
+ORD00772,2024-08-07,Customer_99,Smartwatch,Electronics,1,25565,25565,Cash on Delivery,Chennai,India
+ORD00773,2024-10-04,Customer_76,Smartwatch,Electronics,4,44514,178056,UPI,Kolkata,India
+ORD00774,2024-01-18,Customer_166,Smartwatch,Electronics,4,5641,22564,Cash on Delivery,Delhi,India
+ORD00775,2024-08-22,Customer_253,Monitor,Electronics,2,64796,129592,Net Banking,Bangalore,India
+ORD00776,2024-03-08,Customer_78,Monitor,Electronics,5,28315,141575,Cash on Delivery,Bangalore,India
+ORD00777,2024-02-09,Customer_241,Printer,Electronics,1,36493,36493,Credit Card,Pune,India
+ORD00778,2024-06-19,Customer_254,Printer,Electronics,1,22606,22606,Cash on Delivery,Mumbai,India
+ORD00779,2024-06-20,Customer_289,Monitor,Electronics,2,44532,89064,Credit Card,Bangalore,India
+ORD00780,2024-08-15,Customer_256,Camera,Electronics,4,7978,31912,Debit Card,Mumbai,India
+ORD00781,2024-11-26,Customer_41,Headphones,Accessories,5,64565,322825,Debit Card,Hyderabad,India
+ORD00782,2024-02-07,Customer_202,Smartwatch,Electronics,2,37306,74612,Credit Card,Delhi,India
+ORD00783,2024-09-19,Customer_68,Headphones,Accessories,4,22723,90892,Cash on Delivery,Chennai,India
+ORD00784,2024-08-02,Customer_144,Monitor,Electronics,1,71689,71689,Credit Card,Pune,India
+ORD00785,2024-07-17,Customer_262,Smartwatch,Electronics,3,50133,150399,Cash on Delivery,Hyderabad,India
+ORD00786,2024-06-30,Customer_75,Smartwatch,Electronics,3,75596,226788,Credit Card,Chennai,India
+ORD00787,2024-05-17,Customer_231,Headphones,Accessories,5,37096,185480,Debit Card,Pune,India
+ORD00788,2024-08-28,Customer_221,Printer,Electronics,3,10941,32823,Debit Card,Pune,India
+ORD00789,2024-05-08,Customer_70,Camera,Electronics,5,24059,120295,Cash on Delivery,Pune,India
+ORD00790,2024-08-11,Customer_143,Laptop,Electronics,1,25204,25204,UPI,Hyderabad,India
+ORD00791,2024-01-05,Customer_49,Smartphone,Electronics,1,23732,23732,UPI,Kolkata,India
+ORD00792,2024-07-05,Customer_253,Smartwatch,Electronics,5,37898,189490,Net Banking,Hyderabad,India
+ORD00793,2024-04-15,Customer_119,Headphones,Accessories,4,71389,285556,Net Banking,Kolkata,India
+ORD00794,2024-05-02,Customer_57,Laptop,Electronics,2,71880,143760,Credit Card,Delhi,India
+ORD00795,2024-09-07,Customer_9,Printer,Electronics,1,77287,77287,UPI,Pune,India
+ORD00796,2024-09-20,Customer_141,Headphones,Accessories,3,23269,69807,Cash on Delivery,Kolkata,India
+ORD00797,2024-01-25,Customer_17,Headphones,Accessories,1,22383,22383,Cash on Delivery,Hyderabad,India
+ORD00798,2024-12-05,Customer_9,Smartphone,Electronics,1,23479,23479,Credit Card,Chennai,India
+ORD00799,2024-02-29,Customer_43,Laptop,Electronics,1,627,627,UPI,Pune,India
+ORD00800,2024-11-24,Customer_17,Smartwatch,Electronics,4,77876,311504,UPI,Hyderabad,India
+ORD00801,2024-04-15,Customer_291,Headphones,Accessories,5,25512,127560,UPI,Kolkata,India
+ORD00802,2024-06-03,Customer_271,Tablet,Electronics,5,39651,198255,Net Banking,Pune,India
+ORD00803,2024-07-20,Customer_136,Printer,Electronics,3,22591,67773,UPI,Mumbai,India
+ORD00804,2024-02-04,Customer_156,Camera,Electronics,1,54707,54707,Debit Card,Bangalore,India
+ORD00805,2024-10-17,Customer_197,Camera,Electronics,3,13259,39777,Net Banking,Hyderabad,India
+ORD00806,2024-11-09,Customer_171,Camera,Electronics,1,44528,44528,UPI,Pune,India
+ORD00807,2024-03-02,Customer_235,Monitor,Electronics,5,26219,131095,Credit Card,Pune,India
+ORD00808,2024-02-27,Customer_176,Monitor,Electronics,5,4725,23625,Debit Card,Kolkata,India
+ORD00809,2024-01-23,Customer_169,Camera,Electronics,1,72364,72364,Credit Card,Bangalore,India
+ORD00810,2024-02-08,Customer_109,Laptop,Electronics,2,4379,8758,Cash on Delivery,Bangalore,India
+ORD00811,2024-12-11,Customer_108,Printer,Electronics,3,28748,86244,UPI,Pune,India
+ORD00812,2024-04-23,Customer_71,Printer,Electronics,1,45162,45162,Net Banking,Pune,India
+ORD00813,2024-07-20,Customer_59,Headphones,Accessories,2,18558,37116,Debit Card,Bangalore,India
+ORD00814,2024-07-16,Customer_35,Monitor,Electronics,3,2716,8148,Debit Card,Delhi,India
+ORD00815,2024-05-03,Customer_230,Tablet,Electronics,4,51986,207944,Net Banking,Hyderabad,India
+ORD00816,2024-02-27,Customer_20,Monitor,Electronics,1,6683,6683,Net Banking,Delhi,India
+ORD00817,2024-03-16,Customer_118,Headphones,Accessories,4,66517,266068,Debit Card,Kolkata,India
+ORD00818,2024-11-09,Customer_171,Smartwatch,Electronics,5,11812,59060,Cash on Delivery,Kolkata,India
+ORD00819,2024-01-20,Customer_228,Tablet,Electronics,1,51956,51956,Cash on Delivery,Pune,India
+ORD00820,2024-08-09,Customer_220,Smartphone,Electronics,3,18171,54513,Net Banking,Bangalore,India
+ORD00821,2024-10-08,Customer_68,Headphones,Accessories,3,14236,42708,Debit Card,Chennai,India
+ORD00822,2024-07-05,Customer_101,Headphones,Accessories,4,15749,62996,UPI,Hyderabad,India
+ORD00823,2024-02-11,Customer_213,Camera,Electronics,2,46256,92512,Cash on Delivery,Mumbai,India
+ORD00824,2024-12-29,Customer_229,Laptop,Electronics,3,18990,56970,Cash on Delivery,Bangalore,India
+ORD00825,2024-11-26,Customer_221,Printer,Electronics,4,61913,247652,Debit Card,Pune,India
+ORD00826,2024-07-10,Customer_7,Camera,Electronics,3,59873,179619,UPI,Bangalore,India
+ORD00827,2024-06-02,Customer_240,Tablet,Electronics,4,5112,20448,Credit Card,Delhi,India
+ORD00828,2024-06-06,Customer_105,Camera,Electronics,3,20401,61203,UPI,Chennai,India
+ORD00829,2024-04-25,Customer_14,Monitor,Electronics,2,49182,98364,Cash on Delivery,Kolkata,India
+ORD00830,2024-03-30,Customer_11,Printer,Electronics,3,37862,113586,Credit Card,Kolkata,India
+ORD00831,2024-04-20,Customer_42,Monitor,Electronics,3,4957,14871,UPI,Kolkata,India
+ORD00832,2024-10-15,Customer_67,Monitor,Electronics,5,38297,191485,UPI,Bangalore,India
+ORD00833,2024-03-13,Customer_224,Monitor,Electronics,5,37127,185635,Net Banking,Delhi,India
+ORD00834,2024-09-21,Customer_175,Laptop,Electronics,5,17835,89175,Credit Card,Bangalore,India
+ORD00835,2024-04-24,Customer_239,Smartwatch,Electronics,1,50676,50676,Net Banking,Pune,India
+ORD00836,2024-04-30,Customer_212,Smartphone,Electronics,4,1960,7840,Net Banking,Pune,India
+ORD00837,2024-08-12,Customer_147,Laptop,Electronics,4,58137,232548,Net Banking,Mumbai,India
+ORD00838,2024-12-04,Customer_65,Headphones,Accessories,4,29037,116148,Credit Card,Mumbai,India
+ORD00839,2024-09-06,Customer_208,Camera,Electronics,3,20802,62406,Debit Card,Mumbai,India
+ORD00840,2024-03-09,Customer_297,Smartwatch,Electronics,5,52361,261805,Net Banking,Chennai,India
+ORD00841,2024-01-09,Customer_172,Tablet,Electronics,2,79086,158172,Cash on Delivery,Bangalore,India
+ORD00842,2024-07-02,Customer_253,Monitor,Electronics,5,40713,203565,Cash on Delivery,Bangalore,India
+ORD00843,2024-09-05,Customer_233,Printer,Electronics,4,8419,33676,Debit Card,Kolkata,India
+ORD00844,2024-03-23,Customer_275,Laptop,Electronics,2,22547,45094,UPI,Delhi,India
+ORD00845,2024-03-25,Customer_22,Tablet,Electronics,4,54032,216128,Cash on Delivery,Bangalore,India
+ORD00846,2024-07-16,Customer_147,Tablet,Electronics,1,1105,1105,Debit Card,Kolkata,India
+ORD00847,2024-04-06,Customer_35,Tablet,Electronics,1,38538,38538,UPI,Hyderabad,India
+ORD00848,2024-07-15,Customer_135,Monitor,Electronics,1,5846,5846,Credit Card,Bangalore,India
+ORD00849,2024-08-24,Customer_9,Laptop,Electronics,1,52277,52277,Net Banking,Kolkata,India
+ORD00850,2024-12-29,Customer_140,Tablet,Electronics,3,54857,164571,Credit Card,Mumbai,India
+ORD00851,2024-10-06,Customer_144,Smartphone,Electronics,4,49095,196380,Credit Card,Delhi,India
+ORD00852,2024-01-11,Customer_273,Headphones,Accessories,1,62962,62962,Credit Card,Kolkata,India
+ORD00853,2024-09-11,Customer_61,Headphones,Accessories,1,52693,52693,Cash on Delivery,Bangalore,India
+ORD00854,2024-02-12,Customer_67,Monitor,Electronics,2,43273,86546,Cash on Delivery,Hyderabad,India
+ORD00855,2024-03-30,Customer_95,Laptop,Electronics,1,79688,79688,Debit Card,Pune,India
+ORD00856,2024-04-18,Customer_15,Smartphone,Electronics,1,60166,60166,Cash on Delivery,Chennai,India
+ORD00857,2024-09-04,Customer_213,Printer,Electronics,1,41113,41113,Net Banking,Pune,India
+ORD00858,2024-08-12,Customer_216,Printer,Electronics,3,4740,14220,Cash on Delivery,Delhi,India
+ORD00859,2024-10-18,Customer_265,Tablet,Electronics,3,73471,220413,UPI,Mumbai,India
+ORD00860,2024-05-18,Customer_245,Monitor,Electronics,4,51568,206272,UPI,Chennai,India
+ORD00861,2024-08-22,Customer_239,Monitor,Electronics,3,38524,115572,UPI,Delhi,India
+ORD00862,2024-09-25,Customer_266,Smartphone,Electronics,4,51000,204000,UPI,Pune,India
+ORD00863,2024-09-17,Customer_65,Laptop,Electronics,5,3006,15030,Net Banking,Delhi,India
+ORD00864,2024-03-18,Customer_132,Monitor,Electronics,1,52915,52915,Credit Card,Bangalore,India
+ORD00865,2024-09-03,Customer_47,Smartwatch,Electronics,4,60070,240280,Cash on Delivery,Mumbai,India
+ORD00866,2024-10-12,Customer_123,Tablet,Electronics,4,72931,291724,UPI,Pune,India
+ORD00867,2024-03-27,Customer_262,Monitor,Electronics,1,24287,24287,Cash on Delivery,Pune,India
+ORD00868,2024-03-24,Customer_256,Camera,Electronics,4,18612,74448,Credit Card,Bangalore,India
+ORD00869,2024-09-19,Customer_234,Headphones,Accessories,5,8551,42755,Cash on Delivery,Chennai,India
+ORD00870,2024-11-30,Customer_66,Monitor,Electronics,1,11776,11776,UPI,Delhi,India
+ORD00871,2024-03-15,Customer_17,Smartwatch,Electronics,2,14998,29996,Credit Card,Mumbai,India
+ORD00872,2024-10-21,Customer_121,Printer,Electronics,3,18737,56211,UPI,Bangalore,India
+ORD00873,2024-11-18,Customer_291,Tablet,Electronics,5,21868,109340,Credit Card,Delhi,India
+ORD00874,2024-11-26,Customer_245,Printer,Electronics,5,70666,353330,Credit Card,Hyderabad,India
+ORD00875,2024-05-30,Customer_206,Camera,Electronics,1,17011,17011,Credit Card,Hyderabad,India
+ORD00876,2024-08-21,Customer_165,Monitor,Electronics,4,76669,306676,Credit Card,Mumbai,India
+ORD00877,2024-06-21,Customer_243,Printer,Electronics,3,69714,209142,Cash on Delivery,Kolkata,India
+ORD00878,2024-02-08,Customer_233,Smartwatch,Electronics,4,73300,293200,Net Banking,Delhi,India
+ORD00879,2024-05-31,Customer_104,Smartphone,Electronics,2,65326,130652,Credit Card,Hyderabad,India
+ORD00880,2024-02-17,Customer_65,Laptop,Electronics,3,62442,187326,UPI,Kolkata,India
+ORD00881,2024-07-08,Customer_105,Headphones,Accessories,1,76751,76751,Cash on Delivery,Hyderabad,India
+ORD00882,2024-10-02,Customer_55,Laptop,Electronics,5,13547,67735,Net Banking,Pune,India
+ORD00883,2024-08-25,Customer_47,Printer,Electronics,4,25343,101372,Credit Card,Delhi,India
+ORD00884,2024-11-17,Customer_29,Tablet,Electronics,3,18565,55695,Net Banking,Mumbai,India
+ORD00885,2024-10-31,Customer_86,Headphones,Accessories,1,46770,46770,UPI,Kolkata,India
+ORD00886,2024-03-10,Customer_151,Smartphone,Electronics,4,21928,87712,Cash on Delivery,Hyderabad,India
+ORD00887,2024-03-28,Customer_276,Smartwatch,Electronics,1,60160,60160,Net Banking,Mumbai,India
+ORD00888,2024-06-20,Customer_110,Laptop,Electronics,2,23591,47182,Debit Card,Chennai,India
+ORD00889,2024-09-19,Customer_234,Headphones,Accessories,3,59097,177291,Net Banking,Chennai,India
+ORD00890,2024-09-07,Customer_210,Headphones,Accessories,2,64171,128342,Debit Card,Delhi,India
+ORD00891,2024-01-06,Customer_54,Smartphone,Electronics,4,38855,155420,Credit Card,Kolkata,India
+ORD00892,2024-07-30,Customer_100,Smartwatch,Electronics,3,64792,194376,UPI,Delhi,India
+ORD00893,2024-09-29,Customer_283,Smartphone,Electronics,5,54559,272795,Cash on Delivery,Bangalore,India
+ORD00894,2024-06-16,Customer_164,Smartwatch,Electronics,4,14118,56472,UPI,Pune,India
+ORD00895,2024-12-14,Customer_123,Smartwatch,Electronics,4,48865,195460,Net Banking,Delhi,India
+ORD00896,2024-01-04,Customer_199,Smartphone,Electronics,4,40700,162800,Cash on Delivery,Chennai,India
+ORD00897,2024-12-03,Customer_138,Laptop,Electronics,3,57052,171156,Net Banking,Pune,India
+ORD00898,2024-12-24,Customer_240,Laptop,Electronics,3,9655,28965,Net Banking,Hyderabad,India
+ORD00899,2024-02-13,Customer_3,Camera,Electronics,3,74056,222168,Cash on Delivery,Hyderabad,India
+ORD00900,2024-08-29,Customer_219,Laptop,Electronics,4,38758,155032,Cash on Delivery,Hyderabad,India
+ORD00901,2024-10-12,Customer_284,Monitor,Electronics,2,18050,36100,Cash on Delivery,Kolkata,India
+ORD00902,2024-02-10,Customer_152,Smartwatch,Electronics,4,64306,257224,Debit Card,Hyderabad,India
+ORD00903,2024-10-05,Customer_223,Headphones,Accessories,5,9492,47460,Net Banking,Hyderabad,India
+ORD00904,2024-06-08,Customer_291,Headphones,Accessories,4,39594,158376,Cash on Delivery,Bangalore,India
+ORD00905,2024-05-12,Customer_179,Smartphone,Electronics,4,68687,274748,Net Banking,Delhi,India
+ORD00906,2024-03-07,Customer_101,Monitor,Electronics,3,71852,215556,Debit Card,Hyderabad,India
+ORD00907,2024-04-30,Customer_83,Smartwatch,Electronics,2,59405,118810,Cash on Delivery,Mumbai,India
+ORD00908,2024-05-15,Customer_72,Smartphone,Electronics,3,25365,76095,Cash on Delivery,Bangalore,India
+ORD00909,2024-09-28,Customer_158,Headphones,Accessories,5,13851,69255,Debit Card,Bangalore,India
+ORD00910,2024-07-08,Customer_205,Headphones,Accessories,2,27770,55540,UPI,Pune,India
+ORD00911,2024-09-15,Customer_171,Laptop,Electronics,3,55253,165759,Cash on Delivery,Hyderabad,India
+ORD00912,2024-10-20,Customer_101,Tablet,Electronics,3,6970,20910,UPI,Bangalore,India
+ORD00913,2024-08-30,Customer_74,Headphones,Accessories,1,48942,48942,Credit Card,Delhi,India
+ORD00914,2024-02-15,Customer_240,Smartwatch,Electronics,3,64443,193329,UPI,Delhi,India
+ORD00915,2024-10-03,Customer_151,Camera,Electronics,1,64609,64609,UPI,Kolkata,India
+ORD00916,2024-04-15,Customer_287,Monitor,Electronics,3,66010,198030,Credit Card,Delhi,India
+ORD00917,2024-09-04,Customer_214,Printer,Electronics,5,734,3670,Debit Card,Chennai,India
+ORD00918,2024-08-07,Customer_225,Printer,Electronics,5,79669,398345,Net Banking,Mumbai,India
+ORD00919,2024-09-22,Customer_12,Smartwatch,Electronics,2,70839,141678,UPI,Bangalore,India
+ORD00920,2024-01-09,Customer_162,Camera,Electronics,3,73764,221292,Cash on Delivery,Delhi,India
+ORD00921,2024-07-20,Customer_233,Smartwatch,Electronics,3,23829,71487,Debit Card,Delhi,India
+ORD00922,2024-03-07,Customer_124,Smartphone,Electronics,2,16569,33138,Net Banking,Chennai,India
+ORD00923,2024-01-19,Customer_134,Tablet,Electronics,3,10223,30669,Debit Card,Chennai,India
+ORD00924,2024-09-26,Customer_17,Smartphone,Electronics,1,26727,26727,Net Banking,Mumbai,India
+ORD00925,2024-12-29,Customer_111,Tablet,Electronics,4,5521,22084,Debit Card,Mumbai,India
+ORD00926,2024-02-02,Customer_161,Headphones,Accessories,5,77562,387810,Credit Card,Pune,India
+ORD00927,2024-07-15,Customer_248,Smartphone,Electronics,2,19769,39538,Debit Card,Bangalore,India
+ORD00928,2024-07-30,Customer_25,Monitor,Electronics,1,1120,1120,Debit Card,Delhi,India
+ORD00929,2024-02-15,Customer_190,Monitor,Electronics,2,52244,104488,Debit Card,Pune,India
+ORD00930,2024-04-06,Customer_140,Monitor,Electronics,3,16974,50922,Net Banking,Pune,India
+ORD00931,2024-09-02,Customer_247,Tablet,Electronics,4,67575,270300,Credit Card,Delhi,India
+ORD00932,2024-09-08,Customer_205,Printer,Electronics,2,15861,31722,UPI,Pune,India
+ORD00933,2024-02-25,Customer_288,Smartphone,Electronics,2,74690,149380,Net Banking,Pune,India
+ORD00934,2024-03-07,Customer_107,Camera,Electronics,2,76789,153578,Credit Card,Mumbai,India
+ORD00935,2024-06-19,Customer_194,Headphones,Accessories,5,74538,372690,Net Banking,Chennai,India
+ORD00936,2024-08-17,Customer_7,Laptop,Electronics,3,35510,106530,Debit Card,Chennai,India
+ORD00937,2024-05-11,Customer_50,Camera,Electronics,3,24478,73434,Credit Card,Pune,India
+ORD00938,2024-08-13,Customer_16,Smartphone,Electronics,1,70996,70996,Debit Card,Chennai,India
+ORD00939,2024-02-29,Customer_119,Camera,Electronics,5,76902,384510,Credit Card,Bangalore,India
+ORD00940,2024-09-22,Customer_210,Printer,Electronics,5,18301,91505,UPI,Chennai,India
+ORD00941,2024-11-27,Customer_219,Monitor,Electronics,2,30875,61750,UPI,Kolkata,India
+ORD00942,2024-06-20,Customer_276,Smartphone,Electronics,2,49346,98692,Cash on Delivery,Pune,India
+ORD00943,2024-03-11,Customer_257,Smartwatch,Electronics,1,8342,8342,Credit Card,Chennai,India
+ORD00944,2024-04-21,Customer_66,Printer,Electronics,4,29970,119880,UPI,Hyderabad,India
+ORD00945,2024-07-30,Customer_15,Headphones,Accessories,5,4489,22445,Credit Card,Chennai,India
+ORD00946,2024-08-18,Customer_146,Monitor,Electronics,5,1363,6815,Debit Card,Chennai,India
+ORD00947,2024-11-14,Customer_300,Laptop,Electronics,5,36359,181795,Credit Card,Mumbai,India
+ORD00948,2024-07-07,Customer_300,Headphones,Accessories,4,70119,280476,Credit Card,Kolkata,India
+ORD00949,2024-10-11,Customer_23,Laptop,Electronics,1,1991,1991,Net Banking,Delhi,India
+ORD00950,2024-12-27,Customer_105,Headphones,Accessories,5,27025,135125,Debit Card,Delhi,India
+ORD00951,2024-10-15,Customer_238,Tablet,Electronics,4,65178,260712,Credit Card,Pune,India
+ORD00952,2024-04-13,Customer_155,Monitor,Electronics,4,56032,224128,Cash on Delivery,Mumbai,India
+ORD00953,2024-09-14,Customer_218,Monitor,Electronics,3,66107,198321,Cash on Delivery,Hyderabad,India
+ORD00954,2024-05-06,Customer_213,Smartwatch,Electronics,2,31867,63734,Cash on Delivery,Mumbai,India
+ORD00955,2024-09-08,Customer_48,Laptop,Electronics,2,70565,141130,Debit Card,Chennai,India
+ORD00956,2024-08-12,Customer_204,Smartphone,Electronics,5,15249,76245,UPI,Mumbai,India
+ORD00957,2024-10-12,Customer_277,Smartphone,Electronics,1,71251,71251,Credit Card,Bangalore,India
+ORD00958,2024-08-09,Customer_149,Smartphone,Electronics,4,8987,35948,Debit Card,Chennai,India
+ORD00959,2024-11-29,Customer_204,Camera,Electronics,4,77393,309572,Debit Card,Mumbai,India
+ORD00960,2024-08-29,Customer_91,Camera,Electronics,3,49927,149781,UPI,Delhi,India
+ORD00961,2024-05-01,Customer_83,Smartwatch,Electronics,5,68444,342220,UPI,Pune,India
+ORD00962,2024-10-15,Customer_100,Laptop,Electronics,2,41376,82752,Debit Card,Chennai,India
+ORD00963,2024-11-04,Customer_66,Printer,Electronics,3,56441,169323,Credit Card,Kolkata,India
+ORD00964,2024-06-16,Customer_50,Tablet,Electronics,1,64271,64271,Cash on Delivery,Delhi,India
+ORD00965,2024-08-31,Customer_286,Laptop,Electronics,2,48593,97186,Net Banking,Hyderabad,India
+ORD00966,2024-03-27,Customer_143,Monitor,Electronics,5,57118,285590,UPI,Kolkata,India
+ORD00967,2024-10-26,Customer_17,Monitor,Electronics,5,15823,79115,Credit Card,Hyderabad,India
+ORD00968,2024-02-11,Customer_233,Monitor,Electronics,4,68961,275844,Credit Card,Hyderabad,India
+ORD00969,2024-08-18,Customer_13,Monitor,Electronics,3,43815,131445,Debit Card,Mumbai,India
+ORD00970,2024-04-28,Customer_189,Smartwatch,Electronics,5,69091,345455,Debit Card,Kolkata,India
+ORD00971,2024-10-27,Customer_167,Tablet,Electronics,2,32261,64522,Net Banking,Chennai,India
+ORD00972,2024-09-10,Customer_223,Smartphone,Electronics,3,32463,97389,Credit Card,Mumbai,India
+ORD00973,2024-10-01,Customer_97,Smartphone,Electronics,1,37194,37194,Net Banking,Kolkata,India
+ORD00974,2024-06-04,Customer_94,Monitor,Electronics,3,40630,121890,Credit Card,Mumbai,India
+ORD00975,2024-03-22,Customer_225,Monitor,Electronics,1,78566,78566,Debit Card,Mumbai,India
+ORD00976,2024-06-18,Customer_255,Laptop,Electronics,2,44653,89306,Debit Card,Kolkata,India
+ORD00977,2024-12-04,Customer_210,Tablet,Electronics,2,14351,28702,Cash on Delivery,Mumbai,India
+ORD00978,2024-11-17,Customer_276,Tablet,Electronics,5,65350,326750,Debit Card,Pune,India
+ORD00979,2024-06-28,Customer_242,Smartwatch,Electronics,1,72389,72389,Net Banking,Bangalore,India
+ORD00980,2024-09-04,Customer_216,Headphones,Accessories,3,64100,192300,Cash on Delivery,Pune,India
+ORD00981,2024-11-24,Customer_266,Smartwatch,Electronics,5,71582,357910,Debit Card,Hyderabad,India
+ORD00982,2024-03-25,Customer_67,Camera,Electronics,1,9957,9957,Net Banking,Pune,India
+ORD00983,2024-07-11,Customer_62,Camera,Electronics,1,45261,45261,Cash on Delivery,Delhi,India
+ORD00984,2024-08-15,Customer_58,Headphones,Accessories,2,63921,127842,Cash on Delivery,Delhi,India
+ORD00985,2024-12-16,Customer_260,Headphones,Accessories,4,16565,66260,UPI,Hyderabad,India
+ORD00986,2024-10-13,Customer_224,Headphones,Accessories,4,2175,8700,Net Banking,Pune,India
+ORD00987,2024-02-21,Customer_5,Printer,Electronics,5,588,2940,Cash on Delivery,Delhi,India
+ORD00988,2024-02-11,Customer_64,Smartphone,Electronics,3,2288,6864,UPI,Pune,India
+ORD00989,2024-10-28,Customer_247,Headphones,Accessories,2,7759,15518,Net Banking,Hyderabad,India
+ORD00990,2024-07-10,Customer_166,Smartphone,Electronics,4,40825,163300,Cash on Delivery,Hyderabad,India
+ORD00991,2024-09-18,Customer_56,Smartphone,Electronics,2,18069,36138,Cash on Delivery,Hyderabad,India
+ORD00992,2024-07-15,Customer_48,Smartphone,Electronics,1,70587,70587,Cash on Delivery,Kolkata,India
+ORD00993,2024-11-29,Customer_17,Monitor,Electronics,1,64277,64277,Net Banking,Bangalore,India
+ORD00994,2024-02-28,Customer_120,Headphones,Accessories,2,42328,84656,Cash on Delivery,Bangalore,India
+ORD00995,2024-04-25,Customer_254,Headphones,Accessories,4,62905,251620,Debit Card,Chennai,India
+ORD00996,2024-08-13,Customer_210,Smartphone,Electronics,2,610,1220,Cash on Delivery,Kolkata,India
+ORD00997,2024-05-07,Customer_78,Smartphone,Electronics,1,21739,21739,Credit Card,Pune,India
+ORD00998,2024-01-19,Customer_2,Headphones,Accessories,3,23371,70113,Cash on Delivery,Mumbai,India
+ORD00999,2024-10-30,Customer_241,Smartphone,Electronics,1,51504,51504,Credit Card,Chennai,India
+ORD01000,2024-07-30,Customer_49,Smartphone,Electronics,4,60721,242884,Cash on Delivery,Hyderabad,India
