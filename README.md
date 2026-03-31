@@ -212,24 +212,6 @@ After completing this repository, you will be able to:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, suggestions, and new practice questions are welcome!
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/add-question`)
-3. Commit your changes (`git commit -m 'Add new practice question'`)
-4. Push to the branch (`git push origin feature/add-question`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 **Made with ❤️ for Data Science learners**
